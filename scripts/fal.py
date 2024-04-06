@@ -13,7 +13,7 @@ async def submit_request(mode, **kwargs):
 
     log_index = 0
     async for event in handler.iter_events(with_logs=True):
-        if isinstance(event, fal_client.InProgress):
+        if isinstance(event, fal_run.InProgress):
             new_logs = event.logs[log_index:]
             for log in new_logs:
                 print(log["message"])
@@ -24,7 +24,10 @@ async def submit_request(mode, **kwargs):
 
 
 @click.command()
-@click.option('--mode', type=click.Choice(['text-to-images', 'images-to-video']), prompt=True, help='Choose operation mode')
+@click.option('--mode', type=click.Choice([
+  'text-to-images', 'images-to-video']), 
+  prompt=True, default='text-to-images',
+  help='Choose operation mode')
 @click.option('--prompt', default='', help='Text prompt for generating images')
 @click.option('--negative_prompt', default='', help='Negative prompt to exclude certain elements in images')
 @click.option('--image_size', default='square_hd', help='Size of the generated image')
