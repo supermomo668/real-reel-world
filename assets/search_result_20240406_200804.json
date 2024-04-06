@@ -1,0 +1,908 @@
+{
+    "query": {
+        "original": "what is the second highest mountain",
+        "show_strict_warning": false,
+        "is_navigational": false,
+        "local_decision": "drop",
+        "local_locations_idx": 0,
+        "is_news_breaking": false,
+        "spellcheck_off": true,
+        "country": "us",
+        "bad_results": false,
+        "should_fallback": false,
+        "postal_code": "",
+        "city": "",
+        "header_country": "",
+        "more_results_available": true,
+        "state": ""
+    },
+    "mixed": {
+        "type": "mixed",
+        "main": [
+            {
+                "type": "web",
+                "index": 0,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 1,
+                "all": false
+            },
+            {
+                "type": "videos",
+                "all": true
+            },
+            {
+                "type": "web",
+                "index": 2,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 3,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 4,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 5,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 6,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 7,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 8,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 9,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 10,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 11,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 12,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 13,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 14,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 15,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 16,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 17,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 18,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 19,
+                "all": false
+            }
+        ],
+        "top": [],
+        "side": []
+    },
+    "type": "search",
+    "videos": {
+        "type": "videos",
+        "results": [
+            {
+                "type": "video_result",
+                "url": "https://www.facebook.com/Karakorumexpeditions/videos/k2-the-second-highest-mountain-the-first-ascent-achille-compagnoni-and-lino-lace/379470596743765/",
+                "title": "K2 The Second Highest Mountain, The First Ascent Achille Compagnoni ...",
+                "description": "K2 Height: 8,611 m / 28,251 ft Mountain Range: Baltoro Karakoram Prominence: 4,017 m / 13,179 ft Parent Mountain: Mount Everest Country: Pakistan /...",
+                "video": {},
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "facebook.com",
+                    "hostname": "www.facebook.com",
+                    "favicon": "https://imgs.search.brave.com/dayBEAKYlZqlTVEWI-S_UZ67vOFXcvlKHmgNBEsYPjw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWM3NjZkMmE4/MTU1MTk4ZDU5YzU3/NjUxY2ExZTdjNWQx/NjJlNTY1Y2VlODM4/MmRmMDgzZDBiMmI3/YzU4NmU4ZS93d3cu/ZmFjZWJvb2suY29t/Lw",
+                    "path": "\u203a Karakorumexpeditions  \u203a videos  \u203a k2-the-second-highest-mountain-the-first-ascent-achille-compagnoni-and-lino-lace  \u203a 379470596743765"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/TdEVZLRqAysSTXLpF44cxAXhkxd61SiOeQL6vyW9f2o/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zY29u/dGVudC1sZ2EzLTIu/eHguZmJjZG4ubmV0/L3YvdDE1LjUyNTYt/MTAvMTIxOTAwOTY5/XzM3OTQ3MjQ1Njc0/MzU3OV8zNDAwODM3/OTI0Mzg1Mjg2ODM3/X24uanBnP19uY19j/YXQ9MTAxJmFtcDtj/Y2I9MS03JmFtcDtf/bmNfc2lkPWEyNzY2/NCZhbXA7X25jX29o/Yz13LTdfSWtfN1Rm/QUFYOWN1M182JmFt/cDtfbmNfaHQ9c2Nv/bnRlbnQtbGdhMy0y/Lnh4JmFtcDtvaD0w/MF9BZkNfSEpoVWtn/aVlhWTR1all1M245/RUdBSV9VR1hzN2h5/ZXBFcHJzajdGYUhn/JmFtcDtvZT02NUM2/M0U4NQ"
+                }
+            },
+            {
+                "type": "video_result",
+                "url": "https://www.youtube.com/watch?v=Vtu_Mj0Foiw",
+                "title": "Exploring Mount K2: The Second Highest Mountain in the World | ...",
+                "description": "Join us on an exciting adventure as we explore Mount K2, the second highest mountain in the world. Learn about the history, geography, and natural beauty of ...",
+                "age": "March 12, 2023",
+                "page_age": "2023-03-12T12:58:39",
+                "video": {},
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "youtube.com",
+                    "hostname": "www.youtube.com",
+                    "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+                    "path": "\u203a watch"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/rwOR7KbJxd2RAZg3adYBuQFm2-NSwJvnhcHsvo7-Btw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9W/dHVfTWowRm9pdy9t/YXhyZXNkZWZhdWx0/LmpwZw"
+                }
+            },
+            {
+                "type": "video_result",
+                "url": "https://www.youtube.com/watch?v=83C7AV20_G0",
+                "title": "Highest Mountain In The World | Top 10 - YouTube",
+                "description": "Welcome to this beautiful footage of Mountains.From Everest to Annapurna, and all the peaks in between, these are the highest mountains in the world.The high...",
+                "age": "June 11, 2020",
+                "page_age": "2020-06-11T01:05:12",
+                "video": {},
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "youtube.com",
+                    "hostname": "www.youtube.com",
+                    "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+                    "path": "\u203a watch"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/jPTxpxN4xx-t4_iPXhqf3Vnow720rJDllDJyY2H5r1o/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS84/M0M3QVYyMF9HMC9t/YXhyZXNkZWZhdWx0/LmpwZw"
+                }
+            }
+        ],
+        "mutated_by_goggles": false
+    },
+    "web": {
+        "type": "search",
+        "results": [
+            {
+                "title": "Highest Mountains in the World: The Top 10 Explored",
+                "url": "https://www.muchbetteradventures.com/magazine/highest-mountains-in-the-world-top-10/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "After all, ask 100 people in the world to name a mountain, and most will say Mount Everest. A lot of people also know that the second highest mountain in the world is <strong>K2, on the China-Pakistan border</strong>, but far fewer know that the third highest mountain in the world is called Kangchenjunga.",
+                "page_age": "2024-03-28T12:19:53",
+                "profile": {
+                    "name": "Muchbetteradventures",
+                    "url": "https://www.muchbetteradventures.com/magazine/highest-mountains-in-the-world-top-10/",
+                    "long_name": "muchbetteradventures.com",
+                    "img": "https://imgs.search.brave.com/Wn5u68xB8ikiV9UNEoihHsP6fbabEDLcfHZerL-sxQU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWIxYWM3NDhi/ZTJiNjVlMGZmOTVl/MGRkYmM0NzFhZGZk/ODFkZWU0ODM1YTIx/ZDA1ZmI5NDhiZWVm/YjRkMTljMS93d3cu/bXVjaGJldHRlcmFk/dmVudHVyZXMuY29t/Lw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "muchbetteradventures.com",
+                    "hostname": "www.muchbetteradventures.com",
+                    "favicon": "https://imgs.search.brave.com/Wn5u68xB8ikiV9UNEoihHsP6fbabEDLcfHZerL-sxQU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWIxYWM3NDhi/ZTJiNjVlMGZmOTVl/MGRkYmM0NzFhZGZk/ODFkZWU0ODM1YTIx/ZDA1ZmI5NDhiZWVm/YjRkMTljMS93d3cu/bXVjaGJldHRlcmFk/dmVudHVyZXMuY29t/Lw",
+                    "path": "\u203a magazine  \u203a highest-mountains-in-the-world-top-10"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/EWfb1Tr43AwW9yN0aXWNHNjl4KxWn43vz3s4pUUMxPQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/bXVjaGJldHRlcmFk/dmVudHVyZXMuY29t/L21hZ2F6aW5lL2Nv/bnRlbnQvaW1hZ2Vz/LzIwMTkvMDYvMTMw/OTEyMjUvaVN0b2Nr/LTE1NzY0NDcxOS5q/cGc",
+                    "original": "https://www.muchbetteradventures.com/magazine/content/images/2019/06/13091225/iStock-157644719.jpg",
+                    "logo": false
+                },
+                "age": "1 week ago"
+            },
+            {
+                "title": "List of highest mountains on Earth - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "The dividing line between a <strong>mountain</strong> with multiple peaks and separate <strong>mountains</strong> <strong>is</strong> not always clear (see also <strong>Highest</strong> unclimbed <strong>mountain</strong>). A popular and intuitive way to distinguish <strong>mountains</strong> from subsidiary peaks is by their height above <strong>the</strong> <strong>highest</strong> saddle connecting it to a higher summit, ...",
+                "page_age": "2024-03-29T08:55:26",
+                "profile": {
+                    "name": "Wikipedia",
+                    "url": "https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth",
+                    "long_name": "en.wikipedia.org",
+                    "img": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "deep_results": {
+                    "buttons": [
+                        {
+                            "type": "button_result",
+                            "title": "Geographical distribution",
+                            "url": "https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth#Geographical_distribution"
+                        },
+                        {
+                            "type": "button_result",
+                            "title": "List of world's highest peaks",
+                            "url": "https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth#List_of_world's_highest_peaks"
+                        },
+                        {
+                            "type": "button_result",
+                            "title": "Data plots",
+                            "url": "https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth#Data_plots"
+                        },
+                        {
+                            "type": "button_result",
+                            "title": "Gallery",
+                            "url": "https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth#Gallery"
+                        },
+                        {
+                            "type": "button_result",
+                            "title": "Sources",
+                            "url": "https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth#Sources"
+                        }
+                    ]
+                },
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "en.wikipedia.org",
+                    "hostname": "en.wikipedia.org",
+                    "favicon": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+                    "path": "\u203a wiki  \u203a List_of_highest_mountains_on_Earth"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/7rRSvr_GYaiy2lHabxCQXwpXqhXQCDPXw-LPZwQGRZ0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2QxL01vdW50X0V2/ZXJlc3RfYXNfc2Vl/bl9mcm9tX0RydWth/aXIyX1BMV19lZGl0/LmpwZw",
+                    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg",
+                    "logo": false
+                },
+                "age": "1 week ago"
+            },
+            {
+                "title": "List of Tallest Mountains in The World - Climbing Kilimanjaro",
+                "url": "https://www.climbing-kilimanjaro.com/tallest-mountains-in-the-world/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "The Sur Summit is located in Yungay province of Peru and measures 6384.4 meters or 3,967.1 miles from the center of the Earth. Below the mountain lies the village of Huashco which is also the root for the mountain\u2019s official name. The <strong>Huascaran Mountain</strong> actually has two summits, the south ...",
+                "page_age": "2021-06-22T16:23:58",
+                "profile": {
+                    "name": "Climbing Kilimanjaro",
+                    "url": "https://www.climbing-kilimanjaro.com/tallest-mountains-in-the-world/",
+                    "long_name": "climbing-kilimanjaro.com",
+                    "img": "https://imgs.search.brave.com/RBXk0VxewyAawQCfk0eqY15EUo1LSj5drBQ6lfuyVtM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDA2YmQ2MTMw/ODcxY2FlNGFmNTIw/MjczMGYyZTc3MjJi/YTBhNmNjOGM3NzAz/NTY5NDE0ZTM5NTRl/N2NkNjc3MC93d3cu/Y2xpbWJpbmcta2ls/aW1hbmphcm8uY29t/Lw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "climbing-kilimanjaro.com",
+                    "hostname": "www.climbing-kilimanjaro.com",
+                    "favicon": "https://imgs.search.brave.com/RBXk0VxewyAawQCfk0eqY15EUo1LSj5drBQ6lfuyVtM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDA2YmQ2MTMw/ODcxY2FlNGFmNTIw/MjczMGYyZTc3MjJi/YTBhNmNjOGM3NzAz/NTY5NDE0ZTM5NTRl/N2NkNjc3MC93d3cu/Y2xpbWJpbmcta2ls/aW1hbmphcm8uY29t/Lw",
+                    "path": "  \u203a home  \u203a list of tallest mountains in the world"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/nu6aq0-X1HZuDz1Kt0wbyuZ92qOonOj4iW20d-BdzIw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/Y2xpbWJpbmcta2ls/aW1hbmphcm8uY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIx/LzA2L01hdW5hLUtl/YS5qcGc",
+                    "original": "https://www.climbing-kilimanjaro.com/wp-content/uploads/2021/06/Mauna-Kea.jpg",
+                    "logo": false
+                },
+                "age": "June 22, 2021"
+            },
+            {
+                "title": "K2 | Peak, Geography, History, & Map | Britannica",
+                "url": "https://www.britannica.com/place/K2",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "K2, the world\u2019s second highest peak (28,251 feet [8,611 metres]), second only to <strong>Mount Everest</strong>. K2 is located in the Karakoram Range and lies partly in a Chinese-administered enclave of the Kashmir region within the Uygur Autonomous Region of Xinjiang, China, and partly in the Gilgit-Baltistan ...",
+                "page_age": "2023-08-14T16:40:03",
+                "profile": {
+                    "name": "Britannica",
+                    "url": "https://www.britannica.com/place/K2",
+                    "long_name": "britannica.com",
+                    "img": "https://imgs.search.brave.com/hcLf2uAEj_yDbSzYRgdkKMQIWeIcfmsuchdJkpCh2_g/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJmYzgxOWRk/Y2FhNWI2MzQzMjQ4/MWVhZDZhNGY3ZjY0/MDgxZTM3YWU5MzYz/NGU2MzM3Y2Y2YTYz/M2IyM2Y0NC93d3cu/YnJpdGFubmljYS5j/b20v"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "britannica.com",
+                    "hostname": "www.britannica.com",
+                    "favicon": "https://imgs.search.brave.com/hcLf2uAEj_yDbSzYRgdkKMQIWeIcfmsuchdJkpCh2_g/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJmYzgxOWRk/Y2FhNWI2MzQzMjQ4/MWVhZDZhNGY3ZjY0/MDgxZTM3YWU5MzYz/NGU2MzM3Y2Y2YTYz/M2IyM2Y0NC93d3cu/YnJpdGFubmljYS5j/b20v",
+                    "path": "  \u203a geography & travel  \u203a physical geography of land  \u203a mountains & volcanoes"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/UGI0ddx80znGXcZYzzSSZhytgvIX2xTRhPsqBJ9EQNs/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4u/YnJpdGFubmljYS5j/b20vMTQvNzU1MTQt/MTIwLTA1QTExOUYy/L0syLWRpc3RyaWN0/LUthcmFrb3JhbS1S/YW5nZS1wb3J0aW9u/LUdpbGdpdC1CYWx0/aXN0YW4tcmVnaW9u/LmpwZw",
+                    "original": "https://cdn.britannica.com/14/75514-120-05A119F2/K2-district-Karakoram-Range-portion-Gilgit-Baltistan-region.jpg",
+                    "logo": false
+                },
+                "age": "August 14, 2023"
+            },
+            {
+                "title": "K2: where is world\u2019s second highest mountain, how does it compare to Mount Everest - and who is Nirmal Purja?",
+                "url": "https://www.scotsman.com/lifestyle/outdoors/k2-where-is-worlds-second-highest-mountain-how-does-it-compare-to-mount-everest-and-who-is-nirmal-purja-3105069",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "KS is the second-highest mountain peak in the world, at 8,611 metres (28,251 ft) above sea level (Photo: Shutterstock) Read MoreIn pictures: Scotland\u2019s ten most scenic mountains and Munros ... K2 is the second highest mountain in the world after <strong>Mount Everest</strong>; at 8,611 metres above sea level, ...",
+                "page_age": "2021-01-19T13:03:49",
+                "profile": {
+                    "name": "The Scotsman",
+                    "url": "https://www.scotsman.com/lifestyle/outdoors/k2-where-is-worlds-second-highest-mountain-how-does-it-compare-to-mount-everest-and-who-is-nirmal-purja-3105069",
+                    "long_name": "scotsman.com",
+                    "img": "https://imgs.search.brave.com/kZ39RFto7zrRqFKrmxn0XOK-rL_F7pw70MIYIiIZFwo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFiYTRiNmE2/OWIxMjBkOGRlOTRm/ZDBlZTI3NGM2YTlh/ODkzODNkNTRmYmJl/YTFkMTBkZjFkOWQ5/MTk1NzIyMi93d3cu/c2NvdHNtYW4uY29t/Lw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "video",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "scotsman.com",
+                    "hostname": "www.scotsman.com",
+                    "favicon": "https://imgs.search.brave.com/kZ39RFto7zrRqFKrmxn0XOK-rL_F7pw70MIYIiIZFwo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFiYTRiNmE2/OWIxMjBkOGRlOTRm/ZDBlZTI3NGM2YTlh/ODkzODNkNTRmYmJl/YTFkMTBkZjFkOWQ5/MTk1NzIyMi93d3cu/c2NvdHNtYW4uY29t/Lw",
+                    "path": "  \u203a lifestyle  \u203a outdoors"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/tdhhgTSGmjRDmxg-G0C7oEXOHsm0G3sOxS4JV-48sUE/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c2NvdHNtYW4uY29t/L3dlYmltZy9iMjVs/WTIxek9tSTRPV1Uw/T1dWakxUZzNNMkl0/TkdVMFpTMDRZVGho/TFRFM01HSTNPRFpp/WlRJMlpqb3hNRE5r/T1RsbE5pMWpPRFUy/TFRSa01EUXRZbUl4/WmkxaFlXRTRZbVUw/T0RVNU1HVT0uanBn/P3dpZHRoPTEyMDAm/ZW5hYmxlPXVwc2Nh/bGU",
+                    "original": "https://www.scotsman.com/webimg/b25lY21zOmI4OWU0OWVjLTg3M2ItNGU0ZS04YThhLTE3MGI3ODZiZTI2ZjoxMDNkOTllNi1jODU2LTRkMDQtYmIxZi1hYWE4YmU0ODU5MGU=.jpg?width=1200&enable=upscale",
+                    "logo": false
+                },
+                "age": "January 19, 2021"
+            },
+            {
+                "title": "Highest Mountain Peaks in the World (& Locations) | Infoplease",
+                "url": "https://www.infoplease.com/geography/highest-mountain-peaks-world",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Everest is also known by its Tibetan ... Hillary in 1953. The world&#x27;s second-highest mountain, K2, is a singular exception, located in the nearby <strong>Karakoram mountain range</strong>....",
+                "page_age": "1999-11-11T00:00:00",
+                "profile": {
+                    "name": "InfoPlease",
+                    "url": "https://www.infoplease.com/geography/highest-mountain-peaks-world",
+                    "long_name": "infoplease.com",
+                    "img": "https://imgs.search.brave.com/7TTqROdToauRwGzCXDrThV4QXE24LBJf_l7RXT3erdA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTAyOWNhZDM4/NDNmYjkyOTQ4N2Vl/NDg4MDZjNjU1OGI0/ZTA5YjcwZTQ0ZWNi/ZGIwNjBlZGU2Mzgz/MGY4YTRmMC93d3cu/aW5mb3BsZWFzZS5j/b20v"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "infoplease.com",
+                    "hostname": "www.infoplease.com",
+                    "favicon": "https://imgs.search.brave.com/7TTqROdToauRwGzCXDrThV4QXE24LBJf_l7RXT3erdA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTAyOWNhZDM4/NDNmYjkyOTQ4N2Vl/NDg4MDZjNjU1OGI0/ZTA5YjcwZTQ0ZWNi/ZGIwNjBlZGU2Mzgz/MGY4YTRmMC93d3cu/aW5mb3BsZWFzZS5j/b20v",
+                    "path": "\u203a geography  \u203a highest-mountain-peaks-world"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/pm5uZT576D2OrTUeNc6T4v0Gnof5aRNx9J9xCIfxpa0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aW5mb3BsZWFzZS5j/b20vdGhlbWVzL2lw/L2ltYWdlcy9vZ19s/b2dvX3Bvcy5qcGc",
+                    "original": "https://www.infoplease.com/themes/ip/images/og_logo_pos.jpg",
+                    "logo": true
+                },
+                "age": "November 11, 1999"
+            },
+            {
+                "title": "what is the second highest mountain in the world - Lisbd-net.com",
+                "url": "https://lisbd-net.com/what-is-the-second-highest-mountain-in-the-world/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "<strong>Nanda Devi</strong> is the second highest mountain in India after Kangchenjunga and the highest located entirely within the country. (Kangchenjunga, which is higher, is on the border of India and Nepal.) It is the 23rd-highest peak in the world.",
+                "page_age": "2021-12-07T06:25:36",
+                "profile": {
+                    "name": "Lisbd-net",
+                    "url": "https://lisbd-net.com/what-is-the-second-highest-mountain-in-the-world/",
+                    "long_name": "lisbd-net.com",
+                    "img": "https://imgs.search.brave.com/_DcD8uH_fK4J39Z2zNJUcfjwcof5oVzyrNyyLl3Uwmw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjBjYzA1ZDk2/ZWY5YTVlMjM0MDBl/OGQ2MTg0NjE2MTMx/MDcxZjQ3YjAyMjU2/Nzc3NDY0N2QyZDgx/OTQzM2FlNS9saXNi/ZC1uZXQuY29tLw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "lisbd-net.com",
+                    "hostname": "lisbd-net.com",
+                    "favicon": "https://imgs.search.brave.com/_DcD8uH_fK4J39Z2zNJUcfjwcof5oVzyrNyyLl3Uwmw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjBjYzA1ZDk2/ZWY5YTVlMjM0MDBl/OGQ2MTg0NjE2MTMx/MDcxZjQ3YjAyMjU2/Nzc3NDY0N2QyZDgx/OTQzM2FlNS9saXNi/ZC1uZXQuY29tLw",
+                    "path": "  \u203a home  \u203a faq"
+                },
+                "age": "December 7, 2021"
+            },
+            {
+                "title": "What is the second highest mountain in the world? - Quora",
+                "url": "https://www.quora.com/What-is-the-second-highest-mountain-in-the-world",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Answer (1 of 23): <strong>The</strong> <strong>second</strong> <strong>highest</strong> <strong>mountain</strong> in the world is K2, also known as Mount Godwin-Austen or Chogori. It is located in the Karakoram Range, on the border between Pakistan and China. K2 is 8,611 meters (28,251 feet) tall, and it is considered one of the most difficult <strong>mountains</strong> in the wo...",
+                "page_age": "2019-01-30T00:00:00",
+                "profile": {
+                    "name": "Quora",
+                    "url": "https://www.quora.com/What-is-the-second-highest-mountain-in-the-world",
+                    "long_name": "quora.com",
+                    "img": "https://imgs.search.brave.com/h-UMKefr-GC4QAyvmDqJX6In84keNLnjKLoM-VE4l_w/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg3ZTk4MDVm/ZTE3YzUxZTc4Yjc3/YTE2MGI3MGVhNmQ2/MGE0Yjc4NzRhMmM1/ODMxYTIwNzI1ZjI0/NDkyZDI2Yy93d3cu/cXVvcmEuY29tLw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quora.com",
+                    "hostname": "www.quora.com",
+                    "favicon": "https://imgs.search.brave.com/h-UMKefr-GC4QAyvmDqJX6In84keNLnjKLoM-VE4l_w/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg3ZTk4MDVm/ZTE3YzUxZTc4Yjc3/YTE2MGI3MGVhNmQ2/MGE0Yjc4NzRhMmM1/ODMxYTIwNzI1ZjI0/NDkyZDI2Yy93d3cu/cXVvcmEuY29tLw",
+                    "path": "\u203a What-is-the-second-highest-mountain-in-the-world"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/uosf0MsEeM-zZDt9V4qQ-AFzDtnNMStWUL5IGbCuN1o/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9xcGgu/Y2YyLnF1b3JhY2Ru/Lm5ldC9tYWluLWN1/c3RvbS10LTgyOC02/MDB4MzE1LXFzYWpo/YWZ3Zm1yb255anpz/bnd5cW9ocm1yZG1t/aWhzLmpwZWc",
+                    "original": "https://qph.cf2.quoracdn.net/main-custom-t-828-600x315-qsajhafwfmronyjzsnwyqohrmrdmmihs.jpeg",
+                    "logo": false
+                },
+                "age": "January 30, 2019"
+            },
+            {
+                "title": "Top 10 Highest Mountains in the World - Satori Adventures Pvt Ltd",
+                "url": "https://www.satoriadventuresnepal.com/blog/top-10-highest-mountains-in-the-world/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Everest was first summated by Nepali Sherpa Tenzing Norgay and New Zealand climbers Mr. Edmond Hillary with a British expedition in 1953 from the South Col route. Climbing Mt Everest is the aim of many people in their life. ... <strong>Mount K2</strong> is the second highest mountain on Earth, after Mount Everest.",
+                "page_age": "2017-06-04T12:14:01",
+                "profile": {
+                    "name": "Satoriadventuresnepal",
+                    "url": "https://www.satoriadventuresnepal.com/blog/top-10-highest-mountains-in-the-world/",
+                    "long_name": "satoriadventuresnepal.com",
+                    "img": "https://imgs.search.brave.com/gnUnES0N1F7bM4zfaYlFXdCeKgXVFl_wtBHTlQZqEdY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE1YjJiZDRm/YTUyZjk4NGIyOWZh/YjdkZTdlZWU5OGIy/M2IxZGNhMjVmYmM5/NTM0MWQ5ZDJmOTU0/NzM5NDJkNy93d3cu/c2F0b3JpYWR2ZW50/dXJlc25lcGFsLmNv/bS8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "satoriadventuresnepal.com",
+                    "hostname": "www.satoriadventuresnepal.com",
+                    "favicon": "https://imgs.search.brave.com/gnUnES0N1F7bM4zfaYlFXdCeKgXVFl_wtBHTlQZqEdY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE1YjJiZDRm/YTUyZjk4NGIyOWZh/YjdkZTdlZWU5OGIy/M2IxZGNhMjVmYmM5/NTM0MWQ5ZDJmOTU0/NzM5NDJkNy93d3cu/c2F0b3JpYWR2ZW50/dXJlc25lcGFsLmNv/bS8",
+                    "path": "  \u203a home  \u203a top 10 highest mountains in the world"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/r-ipd3PqkZa0qpO7Bcdd0PpqGVw-jKXtFU-GGie_iGY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c2F0b3JpYWR2ZW50/dXJlc25lcGFsLmNv/bS9wYWdlZ2FsbGVy/eS9saG90c2UtZXhw/ZWRpdGlvbjY3Lmpw/Zw",
+                    "original": "https://www.satoriadventuresnepal.com/pagegallery/lhotse-expedition67.jpg",
+                    "logo": false
+                },
+                "age": "June 4, 2017"
+            },
+            {
+                "title": "K2 - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/K2",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "<strong>K2, at 8,611 metres (28,251 ft) above sea level</strong>, is the second-highest mountain on Earth, after Mount Everest at 8,849 metres (29,032 ft). It lies in the Karakoram range, partially in the Gilgit-Baltistan region of Pakistan-administered Kashmir and partially in the China-administered ...",
+                "page_age": "2024-03-28T17:47:26",
+                "profile": {
+                    "name": "Wikipedia",
+                    "url": "https://en.wikipedia.org/wiki/K2",
+                    "long_name": "en.wikipedia.org",
+                    "img": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "deep_results": {
+                    "buttons": [
+                        {
+                            "type": "button_result",
+                            "title": "Name",
+                            "url": "https://en.wikipedia.org/wiki/K2#Name"
+                        },
+                        {
+                            "type": "button_result",
+                            "title": "Geographical setting",
+                            "url": "https://en.wikipedia.org/wiki/K2#Geographical_setting"
+                        },
+                        {
+                            "type": "button_result",
+                            "title": "Height",
+                            "url": "https://en.wikipedia.org/wiki/K2#Height"
+                        },
+                        {
+                            "type": "button_result",
+                            "title": "Geology",
+                            "url": "https://en.wikipedia.org/wiki/K2#Geology"
+                        },
+                        {
+                            "type": "button_result",
+                            "title": "Climbing history",
+                            "url": "https://en.wikipedia.org/wiki/K2#Climbing_history"
+                        },
+                        {
+                            "type": "button_result",
+                            "title": "Climbing routes and difficulties",
+                            "url": "https://en.wikipedia.org/wiki/K2#Climbing_routes_and_difficulties"
+                        },
+                        {
+                            "type": "button_result",
+                            "title": "Films",
+                            "url": "https://en.wikipedia.org/wiki/K2#Films"
+                        },
+                        {
+                            "type": "button_result",
+                            "title": "Disasters",
+                            "url": "https://en.wikipedia.org/wiki/K2#Disasters"
+                        },
+                        {
+                            "type": "button_result",
+                            "title": "Passes",
+                            "url": "https://en.wikipedia.org/wiki/K2#Passes"
+                        },
+                        {
+                            "type": "button_result",
+                            "title": "Bibliography",
+                            "url": "https://en.wikipedia.org/wiki/K2#Bibliography"
+                        }
+                    ]
+                },
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "en.wikipedia.org",
+                    "hostname": "en.wikipedia.org",
+                    "favicon": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+                    "path": "\u203a wiki  \u203a K2"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/Rm1IuWNIChzuzK0PJPJUUma8YMTYWq_QBhR9Rld-stI/rs:fit:200:200:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2M5L0Nob2dvcmku/anBn",
+                    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Chogori.jpg",
+                    "logo": false
+                },
+                "age": "1 week ago"
+            },
+            {
+                "title": "The Second Highest Mountain in the World (and Why it\u2019s Better than the First) - Discovery UK",
+                "url": "https://www.discoveryuk.com/travel-and-exploration/the-second-highest-mountain-in-the-world-and-why-its-better-than-the-first/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Does the highest elevation equal domination? The second highest mountain in the world puts this notion to the test. ... At <strong>28,251 feet</strong>, K2 is an undeniably magnificent mountain. Indeed, it is the second highest mountain in the world. But not the very highest.",
+                "page_age": "2023-05-01T00:00:00",
+                "profile": {
+                    "name": "Discovery UK",
+                    "url": "https://www.discoveryuk.com/travel-and-exploration/the-second-highest-mountain-in-the-world-and-why-its-better-than-the-first/",
+                    "long_name": "discoveryuk.com",
+                    "img": "https://imgs.search.brave.com/MxXVdp0DyXTrqxkoBKL8VHpEysJ5pNkkGktfSdiGRok/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGVkMTJjYzhm/ZmNiYTE3MThhYTg4/ZDk5OTRmZTliMTQx/YjlmMzYzMjZhZDlh/MTFmNmJlYzM1Mzk0/M2E1ZGIyNS93d3cu/ZGlzY292ZXJ5dWsu/Y29tLw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "discoveryuk.com",
+                    "hostname": "www.discoveryuk.com",
+                    "favicon": "https://imgs.search.brave.com/MxXVdp0DyXTrqxkoBKL8VHpEysJ5pNkkGktfSdiGRok/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGVkMTJjYzhm/ZmNiYTE3MThhYTg4/ZDk5OTRmZTliMTQx/YjlmMzYzMjZhZDlh/MTFmNmJlYzM1Mzk0/M2E1ZGIyNS93d3cu/ZGlzY292ZXJ5dWsu/Y29tLw",
+                    "path": "  \u203a home  \u203a the second highest mountain in the world (and why it\u2019s better than the first)"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/I6k0XBi-iklrykfl5EMdtbQ44GhFXg45NMtupnTNmyc/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9kYjYz/N2xsN3Ixa3ZhLmNs/b3VkZnJvbnQubmV0/L2FwcC91cGxvYWRz/LzIwMjIvMDkvMzAx/MTEzMzQvR2V0dHlJ/bWFnZXMtMTUxNDIy/MjU0LTIuanBn",
+                    "original": "https://db637ll7r1kva.cloudfront.net/app/uploads/2022/09/30111334/GettyImages-151422254-2.jpg",
+                    "logo": false
+                },
+                "age": "May 1, 2023"
+            },
+            {
+                "title": "Top 10 Highest Mountains In The World - World's Tallest Mountains",
+                "url": "https://www.mountainiq.com/highest-mountains-in-the-world/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Besides the months of preparation required, the average cost to climb Everest is tens of thousands of dollars for permits, guides, equipment, and other expenses. The second-highest mountain in the world <strong>stands on the border between Pakistan and China</strong>. K2 got its name during a the Great ...",
+                "page_age": "2023-09-05T00:00:00",
+                "profile": {
+                    "name": "Mountain IQ",
+                    "url": "https://www.mountainiq.com/highest-mountains-in-the-world/",
+                    "long_name": "mountainiq.com",
+                    "img": "https://imgs.search.brave.com/CZefskRrd_Z45dQUPb-OsZX5QyM2sDVEe1dDvvYGkk0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzk5MDIyMGMw/NjE0MTU5ZjM5MGQ5/MDYzNzU3NDAzN2Jh/YTc3MTM0OTUzMzRl/MzQ0YTY1YmQ3ODBi/NmU0MzQ3OC93d3cu/bW91bnRhaW5pcS5j/b20v"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "mountainiq.com",
+                    "hostname": "www.mountainiq.com",
+                    "favicon": "https://imgs.search.brave.com/CZefskRrd_Z45dQUPb-OsZX5QyM2sDVEe1dDvvYGkk0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzk5MDIyMGMw/NjE0MTU5ZjM5MGQ5/MDYzNzU3NDAzN2Jh/YTc3MTM0OTUzMzRl/MzQ0YTY1YmQ3ODBi/NmU0MzQ3OC93d3cu/bW91bnRhaW5pcS5j/b20v",
+                    "path": "  \u203a home  \u203a news and views  \u203a top 10 highest mountains in the world \u2013 discover the tallest mountains in the world"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/vtZdgAnHcEz8XDDHaKK6h-7hGUF0tmcNwXBYlwgwzWA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/bW91bnRhaW5pcS5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMDQvdGliZXQt/Zzk4MjBmMTk1ZF82/NDAuanBn",
+                    "original": "https://www.mountainiq.com/wp-content/uploads/2023/04/tibet-g9820f195d_640.jpg",
+                    "logo": false
+                },
+                "age": "September 5, 2023"
+            },
+            {
+                "title": "K2: The World Second Highest Peak | Pakistan Embassy Tokyo Japan",
+                "url": "https://pakistanembassytokyo.com/node/10",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "K2 (also known as Chhogori/Qogir, Ketu/Kechu, and Mount Godwin-Austen) is <strong>the</strong> <strong>second</strong>-<strong>highest</strong> <strong>mountain</strong> on Earth, after Mount Everest. It is located on Pakistan administered. K2 is <strong>the</strong> <strong>highest</strong> point of the Karakoram Range and <strong>the</strong> <strong>highest</strong> point in Pakistan.",
+                "profile": {
+                    "name": "Pakistanembassytokyo",
+                    "url": "https://pakistanembassytokyo.com/node/10",
+                    "long_name": "pakistanembassytokyo.com",
+                    "img": "https://imgs.search.brave.com/gmkBD9eBXTiJw3BV2SFV84lJTBdIlAmcQFNn2MFUmiU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2Q4OGM1MmMw/MTg4ZWFkNzYyYTRj/MzczZTZmNzdiN2Jh/N2JmYmMwZjM3NDM3/OGI4MDcyOTc2MmRh/NzE5MTAwZi9wYWtp/c3RhbmVtYmFzc3l0/b2t5by5jb20v"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "pakistanembassytokyo.com",
+                    "hostname": "pakistanembassytokyo.com",
+                    "favicon": "https://imgs.search.brave.com/gmkBD9eBXTiJw3BV2SFV84lJTBdIlAmcQFNn2MFUmiU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2Q4OGM1MmMw/MTg4ZWFkNzYyYTRj/MzczZTZmNzdiN2Jh/N2JmYmMwZjM3NDM3/OGI4MDcyOTc2MmRh/NzE5MTAwZi9wYWtp/c3RhbmVtYmFzc3l0/b2t5by5jb20v",
+                    "path": "\u203a node  \u203a 10"
+                }
+            },
+            {
+                "title": "32 of The Tallest Mountains in the World by Continent | The Planet D",
+                "url": "https://theplanetd.com/tallest-mountains-in-the-world/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "K2 is <strong>the</strong> <strong>second</strong>-<strong>highest</strong> <strong>mountain</strong> in the world and is located in <strong>the</strong> <strong>second</strong>-<strong>highest</strong> <strong>mountain</strong> range in the world. The Karakoram <strong>Mountain</strong> Range borders, India, Pakistan, and China and houses the remaining four, 8000 meter peaks like Nanga Parbat.",
+                "page_age": "2023-06-04T02:20:02",
+                "profile": {
+                    "name": "The Planet D",
+                    "url": "https://theplanetd.com/tallest-mountains-in-the-world/",
+                    "long_name": "theplanetd.com",
+                    "img": "https://imgs.search.brave.com/zF8FpBTYrKbRspm76_Kqb5bFO5wLRgSGcbWUKkbBH_c/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTA3Mzg2NmRm/NGQxMmY4YzRhNTM2/ODRhZTAyOTkzNWJk/MGVjZDA5OWEyMGIy/NmUwNTZhMGQzZmRh/NWEzMTU1Mi90aGVw/bGFuZXRkLmNvbS8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "faq",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theplanetd.com",
+                    "hostname": "theplanetd.com",
+                    "favicon": "https://imgs.search.brave.com/zF8FpBTYrKbRspm76_Kqb5bFO5wLRgSGcbWUKkbBH_c/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTA3Mzg2NmRm/NGQxMmY4YzRhNTM2/ODRhZTAyOTkzNWJk/MGVjZDA5OWEyMGIy/NmUwNTZhMGQzZmRh/NWEzMTU1Mi90aGVw/bGFuZXRkLmNvbS8",
+                    "path": "  \u203a home  \u203a travel bucket lists  \u203a 32 of the tallest mountains in the world by continent"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/8n1_teUU65tnkeQCDs360JCdfJeS8oldAGPcdqXD_xw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly90aGVw/bGFuZXRkLmNvbS9p/bWFnZXMvVGFsbGVz/dC1tb3VudGFpbnMt/aW4tdGhlLXdvcmxk/LmpwZw",
+                    "original": "https://theplanetd.com/images/Tallest-mountains-in-the-world.jpg",
+                    "logo": false
+                },
+                "age": "June 4, 2023"
+            },
+            {
+                "title": "K2, the World's Second Highest Mountain - Climbing",
+                "url": "https://www.climbing.com/places/k2-worlds-second-highest-mountain/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "K2 (8,611 meters/28,251 feet), or \u201cChogori,\u201d is the world\u2019s <strong>second</strong> <strong>highest</strong> <strong>mountain</strong>, after Everest (8,048 meters). Unlike Everest and the eight other <strong>highest</strong> <strong>mountains</strong> on Earth, K2 is not located in the Himalaya, however, but in Pakistan\u2019s Karakorum. K2 is situated on the border of ...",
+                "page_age": "2022-08-18T15:45:02",
+                "profile": {
+                    "name": "Climbing",
+                    "url": "https://www.climbing.com/places/k2-worlds-second-highest-mountain/",
+                    "long_name": "climbing.com",
+                    "img": "https://imgs.search.brave.com/Zt3v3iiQdVKrrbpc2bcYAM5zZRjnTPQmISGi5iS-al4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmY5MTdmZjBh/MDk0MTliNTI5MjY1/YzRkNzU1MzE0MGVk/MjRjYTE1OWUwNzhk/YmNmZTU5Y2M5ZjFh/M2M3MDlmOS93d3cu/Y2xpbWJpbmcuY29t/Lw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "climbing.com",
+                    "hostname": "www.climbing.com",
+                    "favicon": "https://imgs.search.brave.com/Zt3v3iiQdVKrrbpc2bcYAM5zZRjnTPQmISGi5iS-al4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmY5MTdmZjBh/MDk0MTliNTI5MjY1/YzRkNzU1MzE0MGVk/MjRjYTE1OWUwNzhk/YmNmZTU5Y2M5ZjFh/M2M3MDlmOS93d3cu/Y2xpbWJpbmcuY29t/Lw",
+                    "path": "  \u203a places  \u203a is k2, the \u201csavage mountain,\u201d becoming less savage?"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/atIXfvmbZw5A7cv4BvzzAf6R-eJtuBfCVgVJgcU5BLo/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/Y2xpbWJpbmcuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIy/LzA4L0dldHR5SW1h/Z2VzLTcwMDA5MjQ2/LmpwZw",
+                    "original": "https://www.climbing.com/wp-content/uploads/2022/08/GettyImages-70009246.jpg",
+                    "logo": false
+                },
+                "age": "August 18, 2022"
+            },
+            {
+                "title": "10 Highest Mountains In The World - WorldAtlas",
+                "url": "https://www.worldatlas.com/mountains/10-highest-mountains-in-the-world.html",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Mount K2 also known as Mount Godwin-Austen or Chhogori, rises to an elevation of 8,611m and is the world\u2019s <strong>second</strong>-<strong>highest</strong> <strong>mountain</strong> after Mount Everest. <strong>The</strong> <strong>mountain</strong> forms a part of the Karakoram <strong>Mountain</strong> Range that is situated partly in the Tashkurgan Tajik Autonomous County in western Xinjiang, ...",
+                "page_age": "2021-09-21T11:20:25",
+                "profile": {
+                    "name": "WorldAtlas",
+                    "url": "https://www.worldatlas.com/mountains/10-highest-mountains-in-the-world.html",
+                    "long_name": "worldatlas.com",
+                    "img": "https://imgs.search.brave.com/FA_O3bpCO6fU_0AObHXev_i0fKy-mmPGm97xq-DczXA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjFlOGU3MjIy/YmQzYTJlNWY3OWFm/NDgwYmQxOTY2MzE5/NTBmOGVkNGJkYjk3/ZTc3NWY4ZjA4YTIw/ODAyNmQwMC93d3cu/d29ybGRhdGxhcy5j/b20v"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "worldatlas.com",
+                    "hostname": "www.worldatlas.com",
+                    "favicon": "https://imgs.search.brave.com/FA_O3bpCO6fU_0AObHXev_i0fKy-mmPGm97xq-DczXA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjFlOGU3MjIy/YmQzYTJlNWY3OWFm/NDgwYmQxOTY2MzE5/NTBmOGVkNGJkYjk3/ZTc3NWY4ZjA4YTIw/ODAyNmQwMC93d3cu/d29ybGRhdGxhcy5j/b20v",
+                    "path": "\u203a mountains  \u203a 10-highest-mountains-in-the-world.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/4QbOKL8BkMM6cOVRWmIaGPCAwaap6cVzdI1TPGb8Yj0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/d29ybGRhdGxhcy5j/b20vci93MjU2MC1x/ODAvdXBsb2FkL2Mx/L2Y0L2Y2L3NodXR0/ZXJzdG9jay0zMDA5/ODcwMzUuanBn",
+                    "original": "https://www.worldatlas.com/r/w2560-q80/upload/c1/f4/f6/shutterstock-300987035.jpg",
+                    "logo": false
+                },
+                "age": "September 21, 2021"
+            },
+            {
+                "title": "The 15 Tallest Mountains in the World",
+                "url": "https://www.treehugger.com/tallest-mountains-in-the-world-5183890",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Along the same horseshoe-shaped ridge as Gasherbrum I (which is just 151 feet taller) Gasherbrum\u2019s <strong>second</strong>-tallest peak is also the 13th <strong>highest</strong> <strong>mountain</strong> on Earth. At 26,362 feet above sea level, Gasherbrum II has <strong>the</strong> <strong>second</strong>-lowest fatality rate of the world\u2019s eight-thousanders, resulting ...",
+                "page_age": "2021-08-11T00:00:00",
+                "profile": {
+                    "name": "Treehugger",
+                    "url": "https://www.treehugger.com/tallest-mountains-in-the-world-5183890",
+                    "long_name": "treehugger.com",
+                    "img": "https://imgs.search.brave.com/pW8cgBuGRzjXBsvpkGCjtIcnJfFRMp71jysOGLAaV8I/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmFjNTM1NTE2/ZmU2ODEyYThlYWFj/N2QwMGRhMGFhMjEx/OWEyNTM0M2RlNWU5/YmY1YTNkZjllYzQ1/ZmRiYjRiNC93d3cu/dHJlZWh1Z2dlci5j/b20v"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "treehugger.com",
+                    "hostname": "www.treehugger.com",
+                    "favicon": "https://imgs.search.brave.com/pW8cgBuGRzjXBsvpkGCjtIcnJfFRMp71jysOGLAaV8I/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmFjNTM1NTE2/ZmU2ODEyYThlYWFj/N2QwMGRhMGFhMjEx/OWEyNTM0M2RlNWU5/YmY1YTNkZjllYzQ1/ZmRiYjRiNC93d3cu/dHJlZWh1Z2dlci5j/b20v",
+                    "path": "\u203a tallest-mountains-in-the-world-5183890"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/YLYvZuCA72nAAnC7diho8kyWG6rNTc3DSA3yBmVvK0o/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/dHJlZWh1Z2dlci5j/b20vdGhtYi82VTNC/V2JKQU11emVmdmhq/SHZIS2VQUl9QbGs9/LzE1MDB4MC9maWx0/ZXJzOm5vX3Vwc2Nh/bGUoKTptYXhfYnl0/ZXMoMTUwMDAwKTpz/dHJpcF9pY2MoKS9H/ZXR0eUltYWdlcy0x/MTUwMDIyMzg5LWQw/YzM0NWY5NWYxZTQw/N2NhYWJhNGNmZWUx/MzllYjJiLmpwZw",
+                    "original": "https://www.treehugger.com/thmb/6U3BWbJAMuzefvhjHvHKePR_Plk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1150022389-d0c345f95f1e407caaba4cfee139eb2b.jpg",
+                    "logo": false
+                },
+                "age": "August 11, 2021"
+            },
+            {
+                "title": "What Are The Top 10 Highest Mountains In The World?",
+                "url": "https://mpora.com/mountaineering-expeditions/highest-mountain-in-the-world-everest/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "<strong>The</strong> <strong>highest</strong> <strong>mountain</strong> in the world is Mount Everest. It\u2019s common knowledge, it\u2019s mainstream, and it\u2019s not much of a secret. Do you think know what the world\u2019s <strong>second</strong> <strong>highest</strong> <strong>mountain</strong> <strong>is</strong> though? Or, for that matter, what the third, fourth, fifth, sixth, seventh, eighth, and ninth <strong>highest</strong> ...",
+                "page_age": "2021-02-16T22:20:04",
+                "profile": {
+                    "name": "Mpora",
+                    "url": "https://mpora.com/mountaineering-expeditions/highest-mountain-in-the-world-everest/",
+                    "long_name": "mpora.com",
+                    "img": "https://imgs.search.brave.com/4YOIntkSvmg66ZedLiumuxa7G9Wyj9mhX3zX04QfLQQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmJkZjJmZDFm/MmM5NzcwZTYzOTUy/ZTdmZTk4NDRjYzA5/NjA5NzNlZTEwZTUz/YzA5NWY1NzdjMWEx/ODViZjkyNC9tcG9y/YS5jb20v"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "mpora.com",
+                    "hostname": "mpora.com",
+                    "favicon": "https://imgs.search.brave.com/4YOIntkSvmg66ZedLiumuxa7G9Wyj9mhX3zX04QfLQQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmJkZjJmZDFm/MmM5NzcwZTYzOTUy/ZTdmZTk4NDRjYzA5/NjA5NzNlZTEwZTUz/YzA5NWY1NzdjMWEx/ODViZjkyNC9tcG9y/YS5jb20v",
+                    "path": "\u203a mountaineering-expeditions  \u203a highest-mountain-in-the-world-everest"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/F1k9V3sv5L6HnAEuFwnrh9rRh81RnvMEDQFdq_YzeY8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL2ZtLWNv/cmVzaXRlcy1hc3Nl/dHMvbXBvcmFfbmV3/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzA2L2hpZ2hlc3Qt/bW91bnRhaW5zLWlu/LXRoZS13b3JsZC1l/dmVyZXN0LmpwZw",
+                    "original": "https://storage.googleapis.com/fm-coresites-assets/mpora_new/wp-content/uploads/2020/06/highest-mountains-in-the-world-everest.jpg",
+                    "logo": false
+                },
+                "age": "February 16, 2021"
+            },
+            {
+                "title": "Seven Second Summits - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Seven_Second_Summits",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "According to the Messner list, Puncak Mandala (4,760 m) on New Guinea is <strong>the</strong> <strong>second</strong> <strong>highest</strong> of the Australian continent. Heights of <strong>mountain</strong> peaks in West Papua are poorly established, and Puncak Trikora has been listed as <strong>the</strong> <strong>second</strong>-<strong>highest</strong> summit on the island, but SRTM data do support a ...",
+                "page_age": "2024-03-06T15:19:56",
+                "profile": {
+                    "name": "Wikipedia",
+                    "url": "https://en.wikipedia.org/wiki/Seven_Second_Summits",
+                    "long_name": "en.wikipedia.org",
+                    "img": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "deep_results": {
+                    "buttons": [
+                        {
+                            "type": "button_result",
+                            "title": "Definitions",
+                            "url": "https://en.wikipedia.org/wiki/Seven_Second_Summits#Definitions"
+                        },
+                        {
+                            "type": "button_result",
+                            "title": "Climbing history",
+                            "url": "https://en.wikipedia.org/wiki/Seven_Second_Summits#Climbing_history"
+                        },
+                        {
+                            "type": "button_result",
+                            "title": "Comparison with Seven Summits",
+                            "url": "https://en.wikipedia.org/wiki/Seven_Second_Summits#Comparison_with_Seven_Summits"
+                        }
+                    ]
+                },
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "en.wikipedia.org",
+                    "hostname": "en.wikipedia.org",
+                    "favicon": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+                    "path": "\u203a wiki  \u203a Seven_Second_Summits"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/OAagvOfjYP2QnRT28t0I3TLFjv-rFs9GlPdnsrRjmPg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9l/L2U3L1NldmVuX3Nl/Y29uZF9zdW1taXRz/X21hcC1mci5zdmc.svg",
+                    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Seven_second_summits_map-fr.svg",
+                    "logo": true
+                },
+                "age": "March 6, 2024"
+            },
+            {
+                "title": "Lesser-know facts about Mount K2 and why it is called the deadliest in the world | Times of India Travel",
+                "url": "https://timesofindia.indiatimes.com/travel/destinations/lesser-know-facts-about-mount-k2-and-why-it-is-called-the-deadliest-in-the-world/articleshow/77807758.cms",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "K2 <strong>Mountain</strong> range is <strong>the</strong> <strong>second</strong> <strong>highest</strong> in the world, and also the most dangerous. Do you know only the lucky ones can successfully climb this <strong>mountain</strong>? More on Times Travel.",
+                "page_age": "2020-08-28T14:55:00",
+                "profile": {
+                    "name": "Times of India",
+                    "url": "https://timesofindia.indiatimes.com/travel/destinations/lesser-know-facts-about-mount-k2-and-why-it-is-called-the-deadliest-in-the-world/articleshow/77807758.cms",
+                    "long_name": "timesofindia.indiatimes.com",
+                    "img": "https://imgs.search.brave.com/4hCdoGGmQzzi6Le2DX-FrR1Xe5CojZ55NOxpYXJAnNQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "timesofindia.indiatimes.com",
+                    "hostname": "timesofindia.indiatimes.com",
+                    "favicon": "https://imgs.search.brave.com/4hCdoGGmQzzi6Le2DX-FrR1Xe5CojZ55NOxpYXJAnNQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+                    "path": "\u203a travel  \u203a destinations  \u203a lesser-know-facts-about-mount-k2-and-why-it-is-called-the-deadliest-in-the-world  \u203a articleshow  \u203a 77807758.cms"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/9oW_1QSxwQztDRA8j5_bQPqk5Eh62lwk5Kgkxer7KR0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9tc2lk/LTc3ODA3NzIwLHdp/ZHRoLTEwNzAsaGVp/Z2h0LTU4MCxyZXNp/emVtb2RlLTc1LGlt/Z3NpemUtMTY3MzA1/NSxwdC0zMix5X3Bh/ZC00MC83NzgwNzcy/MC5qcGc",
+                    "original": "https://static.toiimg.com/thumb/msid-77807720,width-1070,height-580,resizemode-75,imgsize-1673055,pt-32,y_pad-40/77807720.jpg",
+                    "logo": false
+                },
+                "age": "August 28, 2020"
+            }
+        ],
+        "family_friendly": true
+    }
+}

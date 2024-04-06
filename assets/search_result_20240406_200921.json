@@ -1,0 +1,707 @@
+{
+    "query": {
+        "original": "what is a recent global policy that affects businesses?",
+        "show_strict_warning": false,
+        "is_navigational": false,
+        "local_decision": "drop",
+        "local_locations_idx": 0,
+        "is_news_breaking": false,
+        "spellcheck_off": true,
+        "country": "us",
+        "bad_results": false,
+        "should_fallback": false,
+        "postal_code": "",
+        "city": "",
+        "header_country": "",
+        "more_results_available": true,
+        "state": ""
+    },
+    "mixed": {
+        "type": "mixed",
+        "main": [
+            {
+                "type": "web",
+                "index": 0,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 1,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 2,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 3,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 4,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 5,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 6,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 7,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 8,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 9,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 10,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 11,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 12,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 13,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 14,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 15,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 16,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 17,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 18,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 19,
+                "all": false
+            }
+        ],
+        "top": [],
+        "side": []
+    },
+    "type": "search",
+    "web": {
+        "type": "search",
+        "results": [
+            {
+                "title": "What Are Some Ways in Which Global Forces Affect Business Today? | Small Business - Chron.com",
+                "url": "https://smallbusiness.chron.com/ways-global-forces-affect-business-today-67573.html",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "<strong>Global</strong> forces are <strong>affecting</strong> <strong>business</strong> around the world. They\u2019re <strong>affecting</strong> <strong>your</strong> <strong>business</strong>! Raw material availability, supply chain reliability, labor supply, wages, worker expectations, government regulations and consumer demand are all influenced by <strong>global</strong> factors at work.",
+                "profile": {
+                    "name": "Small Business",
+                    "url": "https://smallbusiness.chron.com/ways-global-forces-affect-business-today-67573.html",
+                    "long_name": "smallbusiness.chron.com",
+                    "img": "https://imgs.search.brave.com/pMc-XIeFoWDUxlQ55h71ey-4Z6jdQH4gkhYrttNnNY8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjFjYTYzN2U2/MTg3MGRhOWVlMGI2/NmU3MzYzMTc0ZmUy/ODVhYWY3ODZkOGVk/ODRhZTQzODU1MDg2/MWI3ODljYi9zbWFs/bGJ1c2luZXNzLmNo/cm9uLmNvbS8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "smallbusiness.chron.com",
+                    "hostname": "smallbusiness.chron.com",
+                    "favicon": "https://imgs.search.brave.com/pMc-XIeFoWDUxlQ55h71ey-4Z6jdQH4gkhYrttNnNY8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjFjYTYzN2U2/MTg3MGRhOWVlMGI2/NmU3MzYzMTc0ZmUy/ODVhYWY3ODZkOGVk/ODRhZTQzODU1MDg2/MWI3ODljYi9zbWFs/bGJ1c2luZXNzLmNo/cm9uLmNvbS8",
+                    "path": "\u203a ways-global-forces-affect-business-today-67573.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/HcfiednP1kBhZ-WTN6A0UHNwwVw4RZ_6LfPAhii_WU0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9sLmhk/bnV4LmNvbS84Nzd4/NTAwL2hlYXJzdC1p/bWFnZXMuczMuYW1h/em9uYXdzLmNvbS9n/ZXR0eS9lZDQ3MjE0/NzgwMWE0NDRjYTdj/ZjU0MGY5YWI4ZTk1/Yy5qcGc",
+                    "original": "https://l.hdnux.com/877x500/hearst-images.s3.amazonaws.com/getty/ed472147801a444ca7cf540f9ab8e95c.jpg",
+                    "logo": false
+                }
+            },
+            {
+                "title": "How Globalization Affects Developed Countries",
+                "url": "https://www.investopedia.com/articles/economics/10/globalization-developed-countries.asp",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "The increase in communications technology allows companies to complete in <strong>a</strong> <strong>global</strong> market.",
+                "profile": {
+                    "name": "Investopedia",
+                    "url": "https://www.investopedia.com/articles/economics/10/globalization-developed-countries.asp",
+                    "long_name": "investopedia.com",
+                    "img": "https://imgs.search.brave.com/UPGuj-pwMdPn30IsoFnYQqnd4GcXKbgvdsveByWR8ZE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdiMDU5YmM2/NDE0MjY3N2VmMTQ2/N2JiY2Y3MTgwMDk0/ZjdlOGU3MDUzZTBk/M2UxMTAwODFmYjcz/NTA3ODc2Zi93d3cu/aW52ZXN0b3BlZGlh/LmNvbS8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "investopedia.com",
+                    "hostname": "www.investopedia.com",
+                    "favicon": "https://imgs.search.brave.com/UPGuj-pwMdPn30IsoFnYQqnd4GcXKbgvdsveByWR8ZE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdiMDU5YmM2/NDE0MjY3N2VmMTQ2/N2JiY2Y3MTgwMDk0/ZjdlOGU3MDUzZTBk/M2UxMTAwODFmYjcz/NTA3ODc2Zi93d3cu/aW52ZXN0b3BlZGlh/LmNvbS8",
+                    "path": "\u203a articles  \u203a economics  \u203a 10  \u203a globalization-developed-countries.asp"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/Li8bbOAFxFIQ-SRydECDqaUAhD3nmLyfWF1Oc5hqjwA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4u/andwbGF5ZXIuY29t/L3YyL21lZGlhL0hH/cGwwNmdHL3Bvc3Rl/ci5qcGc_d2lkdGg9/NzIw",
+                    "original": "https://cdn.jwplayer.com/v2/media/HGpl06gG/poster.jpg?width=720",
+                    "logo": false
+                }
+            },
+            {
+                "title": "The Effects of Government Policies on Businesses | Small Business - Chron.com",
+                "url": "https://smallbusiness.chron.com/effects-government-policies-businesses-65214.html",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Governments at all levels establish many regulations and <strong>policies</strong> <strong>that</strong> guide <strong>businesses</strong>. Some rules, like minimum wage, are mandatory, while other <strong>policies</strong> may influence your <strong>business</strong> indirectly. <strong>Businesses</strong> need to be flexible enough to respond to often changing rules and <strong>policies</strong>.",
+                "profile": {
+                    "name": "Small Business",
+                    "url": "https://smallbusiness.chron.com/effects-government-policies-businesses-65214.html",
+                    "long_name": "smallbusiness.chron.com",
+                    "img": "https://imgs.search.brave.com/pMc-XIeFoWDUxlQ55h71ey-4Z6jdQH4gkhYrttNnNY8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjFjYTYzN2U2/MTg3MGRhOWVlMGI2/NmU3MzYzMTc0ZmUy/ODVhYWY3ODZkOGVk/ODRhZTQzODU1MDg2/MWI3ODljYi9zbWFs/bGJ1c2luZXNzLmNo/cm9uLmNvbS8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "smallbusiness.chron.com",
+                    "hostname": "smallbusiness.chron.com",
+                    "favicon": "https://imgs.search.brave.com/pMc-XIeFoWDUxlQ55h71ey-4Z6jdQH4gkhYrttNnNY8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjFjYTYzN2U2/MTg3MGRhOWVlMGI2/NmU3MzYzMTc0ZmUy/ODVhYWY3ODZkOGVk/ODRhZTQzODU1MDg2/MWI3ODljYi9zbWFs/bGJ1c2luZXNzLmNo/cm9uLmNvbS8",
+                    "path": "\u203a effects-government-policies-businesses-65214.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/7eLBlJl4UwW5jsjifei9VOfQM9Hy_zpHZx8v1O_pRCQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9sLmhk/bnV4LmNvbS84Nzd4/NTAwL2hlYXJzdC1p/bWFnZXMuczMuYW1h/em9uYXdzLmNvbS9n/ZXR0eS8yMTgyNzY4/YTlkYTc0MjQ0YjMy/NWQ3NTIyNjFhMjU1/Ny5qcGc",
+                    "original": "https://l.hdnux.com/877x500/hearst-images.s3.amazonaws.com/getty/2182768a9da74244b325d752261a2557.jpg",
+                    "logo": false
+                }
+            },
+            {
+                "title": "Political and Legal Factors That Impact International Trade",
+                "url": "https://saylordotorg.github.io/text_international-business/s06-02-political-and-legal-factors-th.html",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Government-<strong>business</strong> trade relations ... and <strong>global</strong> <strong>businesses</strong>. Governments intervene in trade to protect their nation\u2019s economy and industry, as well as promote and preserve their social, cultural, political, and economic structures and philosophies. Governments have several key <strong>policy</strong> areas in which ...",
+                "profile": {
+                    "name": "Saylordotorg",
+                    "url": "https://saylordotorg.github.io/text_international-business/s06-02-political-and-legal-factors-th.html",
+                    "long_name": "saylordotorg.github.io",
+                    "img": "https://imgs.search.brave.com/M8O3TRX2Q7xqgx7sJxd6CQtpct4bxoloehwUMRE3PzA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDc0NTMxOWFl/Nzc3YmY2MWFkNGIx/YmJkMDU5NTBkZTM4/NzUzMGEyYTEyOWVm/OWUyZDEyZGM1ZTBl/NDQxNzE0Yi9zYXls/b3Jkb3RvcmcuZ2l0/aHViLmlvLw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "saylordotorg.github.io",
+                    "hostname": "saylordotorg.github.io",
+                    "favicon": "https://imgs.search.brave.com/M8O3TRX2Q7xqgx7sJxd6CQtpct4bxoloehwUMRE3PzA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDc0NTMxOWFl/Nzc3YmY2MWFkNGIx/YmJkMDU5NTBkZTM4/NzUzMGEyYTEyOWVm/OWUyZDEyZGM1ZTBl/NDQxNzE0Yi9zYXls/b3Jkb3RvcmcuZ2l0/aHViLmlvLw",
+                    "path": "\u203a text_international-business  \u203a s06-02-political-and-legal-factors-th.html"
+                }
+            },
+            {
+                "title": "Understanding How Politics Can Affect Your Business",
+                "url": "https://online.hbs.edu/blog/post/politics-and-business",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Political decisions can majorly impact <strong>businesses</strong>, so it\u2019s important to obtain an understanding of both. Here\u2019s an overview of <strong>business</strong> and politics.",
+                "page_age": "2022-07-19T12:00:00",
+                "profile": {
+                    "name": "Hbs",
+                    "url": "https://online.hbs.edu/blog/post/politics-and-business",
+                    "long_name": "online.hbs.edu",
+                    "img": "https://imgs.search.brave.com/uFFSij9WPA_AeaXvnBiWBCsyM6-kHPfOLWrM3VbIf6g/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYThiOTc5MjA2/MDEzNjRkMzQ4M2Fj/NDZlNDk3NjRiNzk1/YmE4NjU2YWJhMDMy/MWZmNWI5YWYxZTM3/Y2ZiYTQ4NC9vbmxp/bmUuaGJzLmVkdS8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "online.hbs.edu",
+                    "hostname": "online.hbs.edu",
+                    "favicon": "https://imgs.search.brave.com/uFFSij9WPA_AeaXvnBiWBCsyM6-kHPfOLWrM3VbIf6g/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYThiOTc5MjA2/MDEzNjRkMzQ4M2Fj/NDZlNDk3NjRiNzk1/YmE4NjU2YWJhMDMy/MWZmNWI5YWYxZTM3/Y2ZiYTQ4NC9vbmxp/bmUuaGJzLmVkdS8",
+                    "path": "\u203a blog  \u203a post  \u203a politics-and-business"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/C2gmpEMEg2S--b39zFMZX_Tsg2sCGKXRtlMwBbRf7zY/rs:fit:200:200:1/g:ce/aHR0cDovL29ubGlu/ZS5oYnMuZWR1L1N0/eWxlJTIwTGlicmFy/eS9hcGkvcmVzaXpl/LmFzcHg_aW1ncGF0/aD0vUHVibGlzaGlu/Z0ltYWdlcy9ibG9n/L3Bvc3RzL3BvbGl0/aWNzLWFuZC1idXNp/bmVzcy5qcGcmYW1w/O3c9MTIwMCZhbXA7/aD02MzA",
+                    "original": "http://online.hbs.edu/Style%20Library/api/resize.aspx?imgpath=/PublishingImages/blog/posts/politics-and-business.jpg&amp;w=1200&amp;h=630",
+                    "logo": false
+                },
+                "age": "July 19, 2022"
+            },
+            {
+                "title": "Learn how changes in business markets and trade relations (as a result of both domestic and international politics) can significantly affect a business.",
+                "url": "https://fleximize.com/articles/001264/how-markets-and-trade-relations-affect-business",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Learn how changes in <strong>business</strong> markets and trade relations (as a result of both domestic and international politics) can significantly <strong>affect</strong> <strong>a</strong> <strong>business</strong>.",
+                "profile": {
+                    "name": "Fleximize",
+                    "url": "https://fleximize.com/articles/001264/how-markets-and-trade-relations-affect-business",
+                    "long_name": "fleximize.com",
+                    "img": "https://imgs.search.brave.com/HywA30I_T5jSTowdAsdbu-m5PnACWuY9yqroOtDxxYg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWQ0NWFmZDc2/MzFhOWMxNTk1OTYy/MTdhMzk5NmY4MzZk/NjE1NmRlODNlNGEx/NjMwODU1YTU5ODY1/NDRmYjZkYS9mbGV4/aW1pemUuY29tLw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fleximize.com",
+                    "hostname": "fleximize.com",
+                    "favicon": "https://imgs.search.brave.com/HywA30I_T5jSTowdAsdbu-m5PnACWuY9yqroOtDxxYg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWQ0NWFmZDc2/MzFhOWMxNTk1OTYy/MTdhMzk5NmY4MzZk/NjE1NmRlODNlNGEx/NjMwODU1YTU5ODY1/NDRmYjZkYS9mbGV4/aW1pemUuY29tLw",
+                    "path": "\u203a articles  \u203a 001264  \u203a how-markets-and-trade-relations-affect-business"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/HJKgPHcy8tZ3FQIeCIJU_aj2l3__OxymvRGK_klEerQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZmxleGltaXpl/LmNvbS9pbWFnZXMv/REstVW5zcGxhc2gt/a3NhbG5jYmhlX2Ut/Zi1nLmpwZw",
+                    "original": "https://images.fleximize.com/images/DK-Unsplash-ksalncbhe_e-f-g.jpg",
+                    "logo": false
+                }
+            },
+            {
+                "title": "How Government Policies Affect Businesses - History, Evolution, and Overview",
+                "url": "https://www.vedantu.com/commerce/how-government-policies-affect-businesses",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Learn about How Government <strong>Policies</strong> <strong>Affect</strong> <strong>Businesses</strong> concept topic of Commerce in details explained by subject experts on vedantu.com. Register free for online tutoring session to clear your doubts.",
+                "profile": {
+                    "name": "VEDANTU",
+                    "url": "https://www.vedantu.com/commerce/how-government-policies-affect-businesses",
+                    "long_name": "vedantu.com",
+                    "img": "https://imgs.search.brave.com/Y8HJdKBLzhyd7zKFGfoemjkqUtYiWB0ZNjB3hlAABf0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2JlM2QyODk3/NDIyYWYwNzViNmEy/YzczYTYwYzhkNWU0/OWM5ZjUzNTRhNWJm/Zjg3ODJiMjE3OTA0/ZDYwODFiOS93d3cu/dmVkYW50dS5jb20v"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "faq",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "vedantu.com",
+                    "hostname": "www.vedantu.com",
+                    "favicon": "https://imgs.search.brave.com/Y8HJdKBLzhyd7zKFGfoemjkqUtYiWB0ZNjB3hlAABf0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2JlM2QyODk3/NDIyYWYwNzViNmEy/YzczYTYwYzhkNWU0/OWM5ZjUzNTRhNWJm/Zjg3ODJiMjE3OTA0/ZDYwODFiOS93d3cu/dmVkYW50dS5jb20v",
+                    "path": "  \u203a commerce  \u203a how government policies affect businesses?"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/dFan-8cU2Vh1w91acZmyJce9zihVUqKPEbm9Plt2pnA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/dmVkYW50dS5jb20v/Y2RuL2ltYWdlcy92/ZWRhbnR1LXN0cnVj/dHVyZWQtaW1hZ2Uu/anBn",
+                    "original": "https://www.vedantu.com/cdn/images/vedantu-structured-image.jpg",
+                    "logo": false
+                }
+            },
+            {
+                "title": "7 Ways Climate Change Affects Global Businesses",
+                "url": "https://online.hbs.edu/blog/post/climate-change-affecting-businesses",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Climate change has far-reaching impacts on <strong>business</strong> beyond a country\u2019s borders. Here are seven ways climate change <strong>affects</strong> <strong>global</strong> <strong>business</strong> as a whole.",
+                "page_age": "2022-08-02T04:00:00",
+                "profile": {
+                    "name": "Hbs",
+                    "url": "https://online.hbs.edu/blog/post/climate-change-affecting-businesses",
+                    "long_name": "online.hbs.edu",
+                    "img": "https://imgs.search.brave.com/uFFSij9WPA_AeaXvnBiWBCsyM6-kHPfOLWrM3VbIf6g/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYThiOTc5MjA2/MDEzNjRkMzQ4M2Fj/NDZlNDk3NjRiNzk1/YmE4NjU2YWJhMDMy/MWZmNWI5YWYxZTM3/Y2ZiYTQ4NC9vbmxp/bmUuaGJzLmVkdS8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "online.hbs.edu",
+                    "hostname": "online.hbs.edu",
+                    "favicon": "https://imgs.search.brave.com/uFFSij9WPA_AeaXvnBiWBCsyM6-kHPfOLWrM3VbIf6g/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYThiOTc5MjA2/MDEzNjRkMzQ4M2Fj/NDZlNDk3NjRiNzk1/YmE4NjU2YWJhMDMy/MWZmNWI5YWYxZTM3/Y2ZiYTQ4NC9vbmxp/bmUuaGJzLmVkdS8",
+                    "path": "\u203a blog  \u203a post  \u203a climate-change-affecting-businesses"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/Ry1WLVbr62WTqgHbh7e1NWLpjM04I7kNVoatdRimwAI/rs:fit:200:200:1/g:ce/aHR0cDovL29ubGlu/ZS5oYnMuZWR1L1N0/eWxlJTIwTGlicmFy/eS9hcGkvcmVzaXpl/LmFzcHg_aW1ncGF0/aD0vUHVibGlzaGlu/Z0ltYWdlcy9ibG9n/L3Bvc3RzL2NsaW1h/dGUtY2hhbmdlLWFm/ZmVjdGluZy1idXNp/bmVzcy5qcGcmYW1w/O3c9MTIwMCZhbXA7/aD02MzA",
+                    "original": "http://online.hbs.edu/Style%20Library/api/resize.aspx?imgpath=/PublishingImages/blog/posts/climate-change-affecting-business.jpg&amp;w=1200&amp;h=630",
+                    "logo": false
+                },
+                "age": "August 2, 2022"
+            },
+            {
+                "title": "Solve the top 12 challenges in International business",
+                "url": "https://www.usemultiplier.com/blog/challenges-in-international-business",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Is your organization facing challenges in international <strong>business</strong> expansion. This article provides detailed insights into the <strong>global</strong> <strong>business</strong> issues today.",
+                "page_age": "2023-03-01T12:40:10",
+                "profile": {
+                    "name": "Multiplier",
+                    "url": "https://www.usemultiplier.com/blog/challenges-in-international-business",
+                    "long_name": "usemultiplier.com",
+                    "img": "https://imgs.search.brave.com/OdAyy2ChpyhiW38e64XDeMoTUjsEgOOU9c2s7NnDTmQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjllYWI2N2Rl/M2JlYzNkNzAyMDQ2/MjdjZDE2YzBhMmYy/MTUwYWEyZDM5YWIy/MDRhMGQwNGU5N2Uz/YTg2M2QzNC93d3cu/dXNlbXVsdGlwbGll/ci5jb20v"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "usemultiplier.com",
+                    "hostname": "www.usemultiplier.com",
+                    "favicon": "https://imgs.search.brave.com/OdAyy2ChpyhiW38e64XDeMoTUjsEgOOU9c2s7NnDTmQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjllYWI2N2Rl/M2JlYzNkNzAyMDQ2/MjdjZDE2YzBhMmYy/MTUwYWEyZDM5YWIy/MDRhMGQwNGU5N2Uz/YTg2M2QzNC93d3cu/dXNlbXVsdGlwbGll/ci5jb20v",
+                    "path": "  \u203a home  \u203a international business challenges"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/tbUwh0r5pfu2kRsTkTZwWLHbU9BgTKC5qUNAx5eNo54/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/dXNlbXVsdGlwbGll/ci5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjMvMDMvY2hh/bGxlbmdlcy0xLXAt/MTYwMC53ZWJw",
+                    "original": "https://www.usemultiplier.com/wp-content/uploads/2023/03/challenges-1-p-1600.webp",
+                    "logo": false
+                },
+                "age": "March 1, 2023"
+            },
+            {
+                "title": "Global trade policy changes and implications for businesses: PwC",
+                "url": "https://www.pwc.com/us/en/services/consulting/cybersecurity-risk-regulatory/global-trade-services.html",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Changes in the <strong>global</strong> trade landscape bring uncertainty to the <strong>business</strong> environment. Is your <strong>business</strong> prepared?",
+                "profile": {
+                    "name": "PwC",
+                    "url": "https://www.pwc.com/us/en/services/consulting/cybersecurity-risk-regulatory/global-trade-services.html",
+                    "long_name": "pwc.com",
+                    "img": "https://imgs.search.brave.com/LmjTYkvjE0RAQZWTT4gpAZJXOTQgBlarpkl9LBTkV5k/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDc2MWE2Mzk0/Mzc3ZWI3NmY3NTJh/YmE0MzYxMGMyYjA5/YzI5OTBlOTg2Njk0/NDg3MGEzODNiMzI1/MjBkNTY1My93d3cu/cHdjLmNvbS8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "pwc.com",
+                    "hostname": "www.pwc.com",
+                    "favicon": "https://imgs.search.brave.com/LmjTYkvjE0RAQZWTT4gpAZJXOTQgBlarpkl9LBTkV5k/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDc2MWE2Mzk0/Mzc3ZWI3NmY3NTJh/YmE0MzYxMGMyYjA5/YzI5OTBlOTg2Njk0/NDg3MGEzODNiMzI1/MjBkNTY1My93d3cu/cHdjLmNvbS8",
+                    "path": "\u203a us  \u203a en  \u203a services  \u203a consulting  \u203a cybersecurity-risk-regulatory  \u203a global-trade-services.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/KMmSd4KwxWl8ZwhRSzaxBqXUuSBmhX_CIRxOY26UeP0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/cHdjLmNvbS91cy9l/bi9saWJyYXJ5L2Fz/c2V0cy90cmFkZS1j/b21wbGlhbmNlLXRo/aXJkLmpwZw",
+                    "original": "https://www.pwc.com/us/en/library/assets/trade-compliance-third.jpg",
+                    "logo": false
+                }
+            },
+            {
+                "title": "Current Trends in Global Business | Principles of Management",
+                "url": "https://courses.lumenlearning.com/suny-principlesmanagement/chapter/current-trends-in-global-business/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Nations with rare resources or specific skills are able to focus on their particular <strong>business</strong> or commercial strengths and sell their goods to <strong>a</strong> <strong>global</strong> market. The Economist magazine has reported that one billion people have been lifted out of poverty thanks to freer trade <strong>policies</strong>.[1] On the ...",
+                "profile": {
+                    "name": "Lumenlearning",
+                    "url": "https://courses.lumenlearning.com/suny-principlesmanagement/chapter/current-trends-in-global-business/",
+                    "long_name": "courses.lumenlearning.com",
+                    "img": "https://imgs.search.brave.com/vx6VMfdEiBVfEQH1zH_CBm8y-NQZn88InUu3gNJQbd8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzI4YTYxMWM5/ZThjNDI4YjdhNDhh/MjFkZGZhMDM1MGVi/ZjE5MzQ1NTEzZTRm/ZTY0ZTI4OTc5MGQ2/NzNlNzAyMi9jb3Vy/c2VzLmx1bWVubGVh/cm5pbmcuY29tLw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "courses.lumenlearning.com",
+                    "hostname": "courses.lumenlearning.com",
+                    "favicon": "https://imgs.search.brave.com/vx6VMfdEiBVfEQH1zH_CBm8y-NQZn88InUu3gNJQbd8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzI4YTYxMWM5/ZThjNDI4YjdhNDhh/MjFkZGZhMDM1MGVi/ZjE5MzQ1NTEzZTRm/ZTY0ZTI4OTc5MGQ2/NzNlNzAyMi9jb3Vy/c2VzLmx1bWVubGVh/cm5pbmcuY29tLw",
+                    "path": "\u203a suny-principlesmanagement  \u203a chapter  \u203a current-trends-in-global-business"
+                }
+            },
+            {
+                "title": "The Impact of Globalization on Business - N2Growth",
+                "url": "https://www.n2growth.com/the-impact-of-globalization-on-business/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "<strong>Globalization</strong> creates an opportunity for <strong>businesses</strong> to expand revenue streams, diversify risk, and increase brand equity. Here\u2019s what you need to know.",
+                "page_age": "2006-05-22T18:48:49",
+                "profile": {
+                    "name": "N2Growth",
+                    "url": "https://www.n2growth.com/the-impact-of-globalization-on-business/",
+                    "long_name": "n2growth.com",
+                    "img": "https://imgs.search.brave.com/UpWlB3hzAlRHRddal6z9QM7utpiRooSfnqrVas0k6iM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWE0YWQzNmYx/YTI0ZmU5MTQzNTc4/N2ExMjE2NDVhM2M1/MTAxM2U5NDk0ZDNl/Yjc0MWI2Y2JkZTk5/YzAwNWZhOC93d3cu/bjJncm93dGguY29t/Lw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "n2growth.com",
+                    "hostname": "www.n2growth.com",
+                    "favicon": "https://imgs.search.brave.com/UpWlB3hzAlRHRddal6z9QM7utpiRooSfnqrVas0k6iM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWE0YWQzNmYx/YTI0ZmU5MTQzNTc4/N2ExMjE2NDVhM2M1/MTAxM2U5NDk0ZDNl/Yjc0MWI2Y2JkZTk5/YzAwNWZhOC93d3cu/bjJncm93dGguY29t/Lw",
+                    "path": "\u203a the-impact-of-globalization-on-business"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/KdK2Z5Q-h6tBXpHxdYbzh0G2ehgo2ua8rYeRk_F5Hl0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/bjJncm93dGguY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE5/LzA4L2Z1dHVyaXN0/aWMtZ2xvYmFsLWJ1/c2luZXNzLmpwZw",
+                    "original": "https://www.n2growth.com/wp-content/uploads/2019/08/futuristic-global-business.jpg",
+                    "logo": false
+                },
+                "age": "May 22, 2006"
+            },
+            {
+                "title": "How Governments Influence Markets",
+                "url": "https://www.investopedia.com/articles/economics/11/how-governments-influence-markets.asp",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Governments, the most significant influence on the markets today, can create some dangerous unintended consequences.",
+                "profile": {
+                    "name": "Investopedia",
+                    "url": "https://www.investopedia.com/articles/economics/11/how-governments-influence-markets.asp",
+                    "long_name": "investopedia.com",
+                    "img": "https://imgs.search.brave.com/UPGuj-pwMdPn30IsoFnYQqnd4GcXKbgvdsveByWR8ZE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdiMDU5YmM2/NDE0MjY3N2VmMTQ2/N2JiY2Y3MTgwMDk0/ZjdlOGU3MDUzZTBk/M2UxMTAwODFmYjcz/NTA3ODc2Zi93d3cu/aW52ZXN0b3BlZGlh/LmNvbS8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "investopedia.com",
+                    "hostname": "www.investopedia.com",
+                    "favicon": "https://imgs.search.brave.com/UPGuj-pwMdPn30IsoFnYQqnd4GcXKbgvdsveByWR8ZE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdiMDU5YmM2/NDE0MjY3N2VmMTQ2/N2JiY2Y3MTgwMDk0/ZjdlOGU3MDUzZTBk/M2UxMTAwODFmYjcz/NTA3ODc2Zi93d3cu/aW52ZXN0b3BlZGlh/LmNvbS8",
+                    "path": "\u203a articles  \u203a economics  \u203a 11  \u203a how-governments-influence-markets.asp"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/uVmGo73CUU5byYgKokq4cEre2llS_lifLMawQKCCNBc/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aW52ZXN0b3BlZGlh/LmNvbS90aG1iL040/aDg4b2RvNF9fc2pw/ZG1pcXBNWFNlT0pT/cz0vMTUwMHgwL2Zp/bHRlcnM6bm9fdXBz/Y2FsZSgpOm1heF9i/eXRlcygxNTAwMDAp/OnN0cmlwX2ljYygp/L0hvdy1nb3Zlcm5t/ZW50cy1pbmZsdWVu/Y2UtbWFya2V0c19j/b2xvcl9yZXYtYTBm/NjEzYjdlZjY4NGNi/YTg2OGFhYzdlZmI4/ODE4ZmMuanBn",
+                    "original": "https://www.investopedia.com/thmb/N4h88odo4__sjpdmiqpMXSeOJSs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/How-governments-influence-markets_color_rev-a0f613b7ef684cba868aac7efb8818fc.jpg",
+                    "logo": false
+                }
+            },
+            {
+                "title": "How Global Changes Can Affect the Business Environment | ERM - Enterprise Risk Management Initiative | NC State Poole College of Management",
+                "url": "https://erm.ncsu.edu/library/article/emerging-risks-global-trends-affects",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Read the How <strong>Global</strong> Changes Can <strong>Affect</strong> <strong>the</strong> <strong>Business</strong> Environment article and gain insights to help grow your enterprise risk management knowledge.",
+                "page_age": "2014-04-01T20:09:20",
+                "profile": {
+                    "name": "Ncsu",
+                    "url": "https://erm.ncsu.edu/library/article/emerging-risks-global-trends-affects",
+                    "long_name": "erm.ncsu.edu",
+                    "img": "https://imgs.search.brave.com/RmIP5e8VNkUS8rbk8MOkkmDC5l66e7jqikULFSO3Yaw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWIzMDVhMDRl/ZjU1NmMzYmZlNTIz/NjYzMTQ3NThhMzI2/Njk3MjFiMDA0ZDBi/YTRkYjRkYTYzNWY5/Y2VhZTY4Zi9lcm0u/bmNzdS5lZHUv"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "erm.ncsu.edu",
+                    "hostname": "erm.ncsu.edu",
+                    "favicon": "https://imgs.search.brave.com/RmIP5e8VNkUS8rbk8MOkkmDC5l66e7jqikULFSO3Yaw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWIzMDVhMDRl/ZjU1NmMzYmZlNTIz/NjYzMTQ3NThhMzI2/Njk3MjFiMDA0ZDBi/YTRkYjRkYTYzNWY5/Y2VhZTY4Zi9lcm0u/bmNzdS5lZHUv",
+                    "path": "\u203a library  \u203a article  \u203a emerging-risks-global-trends-affects"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/B6JtCCsnw-bZ0d47mltFg2so1cmd7rUjqSkVj_4sY0U/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9lcm0u/bmNzdS5lZHUvYXov/ZXJtNS90L2VybXov/aW1nL2VybS1pbWcv/YmctaW1nLTUuanBn",
+                    "original": "https://erm.ncsu.edu/az/erm5/t/ermz/img/erm-img/bg-img-5.jpg"
+                },
+                "age": "April 1, 2014"
+            },
+            {
+                "title": "IMPACT OF GOVERNMENT POLICY ON INTERNATIONAL BUSINESS - ProQuest",
+                "url": "https://www.proquest.com/openview/b7b9e793899830f11940dedd5d0e214b/1?pq-origsite=gscholar&cbl=2033472",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Explore millions of resources from scholarly journals, books, newspapers, videos and more, on the ProQuest Platform.",
+                "profile": {
+                    "name": "Proquest",
+                    "url": "https://www.proquest.com/openview/b7b9e793899830f11940dedd5d0e214b/1?pq-origsite=gscholar&cbl=2033472",
+                    "long_name": "proquest.com",
+                    "img": "https://imgs.search.brave.com/V-9Y_Zc23J_hqPxqXg6OcZoZr2s3ozBMPVqBfs-1hFQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDM3MGM5NWI2/OGJlZmI4M2NjNWIx/MTNkMDU4ZTA1NDJi/OGI2ODZjN2M2M2I2/YWRiMTg3ZTRmZWEy/N2VkOWZlYy93d3cu/cHJvcXVlc3QuY29t/Lw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "proquest.com",
+                    "hostname": "www.proquest.com",
+                    "favicon": "https://imgs.search.brave.com/V-9Y_Zc23J_hqPxqXg6OcZoZr2s3ozBMPVqBfs-1hFQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDM3MGM5NWI2/OGJlZmI4M2NjNWIx/MTNkMDU4ZTA1NDJi/OGI2ODZjN2M2M2I2/YWRiMTg3ZTRmZWEy/N2VkOWZlYy93d3cu/cHJvcXVlc3QuY29t/Lw",
+                    "path": "\u203a openview  \u203a b7b9e793899830f11940dedd5d0e214b  \u203a 1"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/7eNmCOAXpI8XM95r-XeP_KFww8ZSQb5LY1GmnBZx180/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/cHJvcXVlc3QuY29t/L2ltYWdlcy9wYWdl/bGF5b3V0L1Byb1F1/ZXN0X2xvZ28uZ2lm.jpeg",
+                    "original": "https://www.proquest.com/images/pagelayout/ProQuest_logo.gif",
+                    "logo": true
+                }
+            },
+            {
+                "title": "Coronavirus\u2019 business impact: Evolving perspective | McKinsey",
+                "url": "https://www.mckinsey.com/business-functions/risk-and-resilience/our-insights/covid-19-implications-for-business",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Our latest perspectives on the coronavirus outbreak, the twin threats to lives and livelihoods, and how organizations can prepare for the next normal.",
+                "page_age": "2020-03-02T21:43:00",
+                "profile": {
+                    "name": "McKinsey & Company",
+                    "url": "https://www.mckinsey.com/business-functions/risk-and-resilience/our-insights/covid-19-implications-for-business",
+                    "long_name": "mckinsey.com",
+                    "img": "https://imgs.search.brave.com/KBxNfBCVPsmZ_xlEuvKkwVvqRAi28CRC9yhxsptDvWg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjlmMzI2MDg0/MjZkMDY0OTQzNjNh/ODI2NWUxOWFjMjIx/YzMyOWQyZDQwOGI1/NTY3NDE3ZTVlOTM1/YmVkMTQ3Yy93d3cu/bWNraW5zZXkuY29t/Lw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "mckinsey.com",
+                    "hostname": "www.mckinsey.com",
+                    "favicon": "https://imgs.search.brave.com/KBxNfBCVPsmZ_xlEuvKkwVvqRAi28CRC9yhxsptDvWg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjlmMzI2MDg0/MjZkMDY0OTQzNjNh/ODI2NWUxOWFjMjIx/YzMyOWQyZDQwOGI1/NTY3NDE3ZTVlOTM1/YmVkMTQ3Yy93d3cu/bWNraW5zZXkuY29t/Lw",
+                    "path": "\u203a business-functions  \u203a risk-and-resilience  \u203a our-insights  \u203a covid-19-implications-for-business"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/gJIGasOglYqX1Mmg5uWRYMc80Rqhd-5G6LJr5sDKSmc/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/bWNraW5zZXkuY29t/L34vbWVkaWEvbWNr/aW5zZXkvYnVzaW5l/c3MlMjBmdW5jdGlv/bnMvcmlzay9vdXIl/MjBpbnNpZ2h0cy9j/b3ZpZCUyMDE5JTIw/aW1wbGljYXRpb25z/JTIwZm9yJTIwYnVz/aW5lc3MvaW1wbGlj/YXRpb25zLWJyaWVm/aW5nLW5vdGUtNC1z/dGFuZGFyZC0xNTM2/eDE1MzYuanBn",
+                    "original": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/risk/our%20insights/covid%2019%20implications%20for%20business/implications-briefing-note-4-standard-1536x1536.jpg",
+                    "logo": false
+                },
+                "age": "March 2, 2020"
+            },
+            {
+                "title": "E-commerce Policy and the Global Economy: A Path to More Inclusive Development? - PMC",
+                "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9631583/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "The advancement of digitalization is gradually transforming the existing structure of the <strong>global</strong> economy. According to the McKinsey <strong>Global</strong> Institute, almost all cross-border transactions had a digital component in 2016. This is also reflected by the growing ...",
+                "profile": {
+                    "name": "NCBI",
+                    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9631583/",
+                    "long_name": "National Center for Biotechnology Information",
+                    "img": "https://imgs.search.brave.com/8HH5nd7rZQco90qEXIc6jnwDeRiYLs5gXy-y-n7ykxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgxNzE0Nzlj/MzAxYmYwZjU0ODNi/MDgyYzdiMDY1NWJl/Y2I1ODFjOGQwYmYw/ODdkY2Y4MmE4NTE5/ZDZiMDZlZS93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "ncbi.nlm.nih.gov",
+                    "hostname": "www.ncbi.nlm.nih.gov",
+                    "favicon": "https://imgs.search.brave.com/8HH5nd7rZQco90qEXIc6jnwDeRiYLs5gXy-y-n7ykxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgxNzE0Nzlj/MzAxYmYwZjU0ODNi/MDgyYzdiMDY1NWJl/Y2I1ODFjOGQwYmYw/ODdkY2Y4MmE4NTE5/ZDZiMDZlZS93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi8",
+                    "path": "\u203a pmc  \u203a articles  \u203a PMC9631583"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/5bfcHo1PfV6rvJvSnUDsmQPRhO5o-9tsgtoLMuddIKg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi9jb3JlaHRt/bC9wbWMvcG1jZ2lm/cy9wbWMtY2FyZC1z/aGFyZS5qcGc_Xz0w",
+                    "original": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+                    "logo": false
+                }
+            },
+            {
+                "title": "Political Factors Affecting Business",
+                "url": "https://pestleanalysis.com/political-factors-affecting-business/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Political factors <strong>affecting</strong> <strong>businesses</strong> range from bureaucracy, trade control and corruption level to government stability, regulation and deregulation.",
+                "page_age": "2015-02-24T09:01:12",
+                "profile": {
+                    "name": "PESTLE Analysis",
+                    "url": "https://pestleanalysis.com/political-factors-affecting-business/",
+                    "long_name": "pestleanalysis.com",
+                    "img": "https://imgs.search.brave.com/U1EZiKKoNL7bBXTTld6hba8HsHHfXIaW6AMmzflnWnw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmJkOGQwNWNk/MTE4MzNhNjg3Nzk0/Y2Y1OGQyYjc1MzI0/ZGEwYjI3Y2ZmZmVj/MzZmODY4ZGRhMzM4/YjQ0MGUyNC9wZXN0/bGVhbmFseXNpcy5j/b20v"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "pestleanalysis.com",
+                    "hostname": "pestleanalysis.com",
+                    "favicon": "https://imgs.search.brave.com/U1EZiKKoNL7bBXTTld6hba8HsHHfXIaW6AMmzflnWnw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmJkOGQwNWNk/MTE4MzNhNjg3Nzk0/Y2Y1OGQyYjc1MzI0/ZGEwYjI3Y2ZmZmVj/MzZmODY4ZGRhMzM4/YjQ0MGUyNC9wZXN0/bGVhbmFseXNpcy5j/b20v",
+                    "path": "\u203a political-factors-affecting-business"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/pNmCc7BLZJsXgI937ZfjCG0cod1RQLFPZUHu_BaKikQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4u/c2hvcnRwaXhlbC5h/aS9zcGFpL3FfbG9z/c3krcmV0X2ltZyt0/b19hdXRvL2h0dHBz/Oi8vcGVzdGxlYW5h/bHlzaXMuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE1LzAy/L3BvbGl0aWNhbC1m/YWN0b3JzLWFmZmVj/dGluZy1idXNpbmVz/cy5qcGc",
+                    "original": "https://cdn.shortpixel.ai/spai/q_lossy+ret_img+to_auto/https://pestleanalysis.com/wp-content/uploads/2015/02/political-factors-affecting-business.jpg",
+                    "logo": false
+                },
+                "age": "February 24, 2015"
+            },
+            {
+                "title": "How Do Tax Policies Affect Individuals and Businesses? | Stanford Institute for Economic Policy Research (SIEPR)",
+                "url": "https://siepr.stanford.edu/publications/policy-brief/how-do-tax-policies-affect-individuals-and-businesses",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "This <strong>policy</strong> brief reviews how tax ... and <strong>businesses</strong>, using some examples from major tax reforms in the last several decades. Taxation <strong>affects</strong> individual and family decisions on work, savings, and their choice of residence. In addition, tax <strong>policies</strong> influence how entrepreneurs organize their companies and optimize investment and borrowing activities. Moreover, tax codes <strong>affect</strong> <strong>the</strong> <strong>global</strong> competitiveness ...",
+                "profile": {
+                    "name": "Stanford",
+                    "url": "https://siepr.stanford.edu/publications/policy-brief/how-do-tax-policies-affect-individuals-and-businesses",
+                    "long_name": "siepr.stanford.edu",
+                    "img": "https://imgs.search.brave.com/b5JNQMzVtFHxQ_jsOEgGJPthq6sDx5JiTG2y3VPRUI4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjgyZjA0MDgx/OGVmMzQwZTA3MzYz/ODRjODhlNTcwNzI2/Yjg3M2QzMjlhMDEz/YjU3NmRkYzAzOTJi/MzgyOTQwYi9zaWVw/ci5zdGFuZm9yZC5l/ZHUv"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "siepr.stanford.edu",
+                    "hostname": "siepr.stanford.edu",
+                    "favicon": "https://imgs.search.brave.com/b5JNQMzVtFHxQ_jsOEgGJPthq6sDx5JiTG2y3VPRUI4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjgyZjA0MDgx/OGVmMzQwZTA3MzYz/ODRjODhlNTcwNzI2/Yjg3M2QzMjlhMDEz/YjU3NmRkYzAzOTJi/MzgyOTQwYi9zaWVw/ci5zdGFuZm9yZC5l/ZHUv",
+                    "path": "\u203a publications  \u203a policy-brief  \u203a how-do-tax-policies-affect-individuals-and-businesses"
+                }
+            },
+            {
+                "title": "U.S. Trade Policy: Background and Current Issues",
+                "url": "https://crsreports.congress.gov/product/pdf/IF/IF10156",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "CRS Reports, Congressional Research Service, Congressional Reports, CRS",
+                "profile": {
+                    "name": "Congress",
+                    "url": "https://crsreports.congress.gov/product/pdf/IF/IF10156",
+                    "long_name": "crsreports.congress.gov",
+                    "img": "https://imgs.search.brave.com/hjpp6WRNWEYrfazHEpyQCEWj524B_UQFsrinwm7WunE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTA5NmEzZTI4/OTdiNzY4MTNmODRh/YTEzYTkxNWZmNmI5/NzZhMTE0NjI5Y2Q0/MTQ3ZTMwM2Y1NzBj/ZTkwZjhkZi9jcnNy/ZXBvcnRzLmNvbmdy/ZXNzLmdvdi8"
+                },
+                "language": "unk",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "crsreports.congress.gov",
+                    "hostname": "crsreports.congress.gov",
+                    "favicon": "https://imgs.search.brave.com/hjpp6WRNWEYrfazHEpyQCEWj524B_UQFsrinwm7WunE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTA5NmEzZTI4/OTdiNzY4MTNmODRh/YTEzYTkxNWZmNmI5/NzZhMTE0NjI5Y2Q0/MTQ3ZTMwM2Y1NzBj/ZTkwZjhkZi9jcnNy/ZXBvcnRzLmNvbmdy/ZXNzLmdvdi8",
+                    "path": "\u203a product  \u203a pdf  \u203a IF  \u203a IF10156"
+                },
+                "content_type": "pdf"
+            }
+        ],
+        "family_friendly": true
+    }
+}
