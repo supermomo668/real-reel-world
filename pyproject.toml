@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.11"
 fal-client = "^0.2.2"
 fastapi = "^0.110.1"
+asyncpg = "^0.29.0"
 
 
 [build-system]

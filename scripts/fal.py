@@ -20,10 +20,11 @@ async def submit_request(mode, **kwargs):
             log_index = len(event.logs)
 
     result = await handler.get()
-    print(result)
+    return result
+
 
 @click.command()
-@click.option('--mode', type=click.Choice(['1', '2']), prompt=True, help='Choose mode (1: Text to Images, 2: Images to Video)')
+@click.option('--mode', type=click.Choice(['text-to-images', 'images-to-video']), prompt=True, help='Choose operation mode')
 @click.option('--prompt', default='', help='Text prompt for generating images')
 @click.option('--negative_prompt', default='', help='Negative prompt to exclude certain elements in images')
 @click.option('--image_size', default='square_hd', help='Size of the generated image')
@@ -37,9 +38,17 @@ async def submit_request(mode, **kwargs):
 @click.option('--steps', default=4, help='Number of steps for the model')
 @click.option('--fps', default=10, help='FPS of the generated video')
 def main(mode, prompt, negative_prompt, image_size, num_inference_steps, guidance_scale, num_images, format, image_url, motion_bucket_id, cond_aug, steps, fps):
-    asyncio.run(submit_request(mode, prompt=prompt, negative_prompt=negative_prompt, image_size=image_size, num_inference_steps=num_inference_steps, 
-                               guidance_scale=guidance_scale, num_images=num_images, format=format, image_url=image_url, motion_bucket_id=motion_bucket_id, 
-                               cond_aug=cond_aug, steps=steps, fps=fps))
+    asyncio.run(submit_request(
+      mode, 
+      prompt=prompt, 
+      negative_prompt=negative_prompt, 
+      image_size=image_size, 
+      num_inference_steps=num_inference_steps,
+      guidance_scale=guidance_scale, 
+      num_images=num_images, format=format, 
+      image_url=image_url, 
+      motion_bucket_id=motion_bucket_id, 
+      cond_aug=cond_aug, steps=steps, fps=fps))
 
 if __name__ == "__main__":
-    cli()
+    main()

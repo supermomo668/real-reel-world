@@ -10,7 +10,7 @@ services:
       POSTGRES_USER: user
       POSTGRES_PASSWORD: password
     ports:
-      - "5432:5432" # Expose the PostgreSQL port for local connections
+      - "5432:5432"
 
   app:
     build: .
@@ -23,7 +23,9 @@ services:
       - db
     environment:
       DATABASE_URL: postgresql://your_db_user:your_db_password@db/your_db_name
-      BRAVE_API_KEY: your_brave_api_key_here # Optionally, set this in .env and use env_file
+    env_file: .env
+    #Optionally, set this in .env and use env_file
+
 
 volumes:
-  postgres_data: # Named volume for persisting db data
+  postgres_data: {} # This defines the postgres_data volume used by the db service

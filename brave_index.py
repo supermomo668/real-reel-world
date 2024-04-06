@@ -23,4 +23,4 @@ def check_for_updates(db: Session):
     if compare_urls(new_urls, stored_urls):
         update_database(db, new_urls)
         return True, new_urls
-    return False, stored_urls
+    return False, []
