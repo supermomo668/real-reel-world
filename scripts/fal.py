@@ -1,64 +1,15 @@
 import asyncio
-import os
 import click
 import fal_client
-from dotenv import load_dotenv
 
-from .constants import FAL_MODELS as MODELS
+from scripts.constants import FAL_MODELS as MODELS
+async def submit_request(mode, **kwargs):
+    model_details = MODELS.get(mode)
+    if not model_details:
+        print("Invalid mode selected.")
+        return
 
-# Load the environment variables
-load_dotenv()
-
-# Define the Click command
-@click.command()
-@click.option('--image-url', prompt='Image URL', help='URL of the image to process.')
-@click.option('--prompt', prompt='Description prompt', help='Description of the desired transformation.')
-def cli(image_url, prompt):
-    asyncio.run(submit(image_url, prompt))
-import asyncio
-import os
-import click
-import fal_client
-from dotenv import load_dotenv
-
-# Load the environment variables
-load_dotenv()
-
-
-@click.group()
-def cli():
-    pass
-
-@cli.command()
-def list_models():
-    """List available models and their descriptions."""
-    for model_key, model_value in MODELS.items():
-        click.echo(f"Model: {model_key}")
-        click.echo(f"Name: {model_value['name']}")
-        click.echo(f"Description: {model_value['description']}\n")
-
-# Define the Click command
-@click.command()
-@click.argument('model_type', type=click.Choice(['image-to-image', 'fast-svd'], case_sensitive=False))
-@click.option('--image-url', prompt='Image URL', help='URL of the image to process.')
-@click.option('--prompt', default='', help='Description of the desired transformation (only for image-to-image).')
-def cli(model_type, image_url, prompt):
-    asyncio.run(submit(model_type, image_url, prompt))
-
-async def submit(model_type, image_url, prompt):
-    if model_type == 'image-to-image':
-        arguments = {
-            "image_url": image_url,
-            "prompt": prompt
-        }
-        model_name = "fal-ai/fast-sdxl/image-to-image"
-    elif model_type == 'fast-svd':
-        arguments = {
-            "image_url": image_url
-        }
-        model_name = "fal-ai/fast-svd"
-
-    handler = await fal_client.submit_async(model_name, arguments=arguments)
+    handler = await fal_client.submit_async(model_details['name'], arguments={key: kwargs[key] for key in model_details['args'] if key in kwargs})
 
     log_index = 0
     async for event in handler.iter_events(with_logs=True):
@@ -71,7 +22,24 @@ async def submit(model_type, image_url, prompt):
     result = await handler.get()
     print(result)
 
+@click.command()
+@click.option('--mode', type=click.Choice(['1', '2']), prompt=True, help='Choose mode (1: Text to Images, 2: Images to Video)')
+@click.option('--prompt', default='', help='Text prompt for generating images')
+@click.option('--negative_prompt', default='', help='Negative prompt to exclude certain elements in images')
+@click.option('--image_size', default='square_hd', help='Size of the generated image')
+@click.option('--num_inference_steps', default=25, help='Number of inference steps')
+@click.option('--guidance_scale', default=7.5, help='Guidance scale for image generation')
+@click.option('--num_images', default=1, help='Number of images to generate')
+@click.option('--format', default='jpeg', help='Format of the generated images')
+@click.option('--image_url', default='', help='URL of the image to use as a starting point for the video generation')
+@click.option('--motion_bucket_id', default=127, help='Motion bucket id for video generation')
+@click.option('--cond_aug', default=0.02, help='Conditioning augmentation for video generation')
+@click.option('--steps', default=4, help='Number of steps for the model')
+@click.option('--fps', default=10, help='FPS of the generated video')
+def main(mode, prompt, negative_prompt, image_size, num_inference_steps, guidance_scale, num_images, format, image_url, motion_bucket_id, cond_aug, steps, fps):
+    asyncio.run(submit_request(mode, prompt=prompt, negative_prompt=negative_prompt, image_size=image_size, num_inference_steps=num_inference_steps, 
+                               guidance_scale=guidance_scale, num_images=num_images, format=format, image_url=image_url, motion_bucket_id=motion_bucket_id, 
+                               cond_aug=cond_aug, steps=steps, fps=fps))
 
-if __name__ == '__main__':
-  # python cli_submit.py list-models
-  cli()
+if __name__ == "__main__":
+    cli()

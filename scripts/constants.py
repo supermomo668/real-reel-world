@@ -1,13 +1,15 @@
 
-# Hardcoded list of models for the example
+# Registry of models with their details
 FAL_MODELS = {
-    'image-to-image': {
-        'name': 'fal-ai/fast-sdxl/image-to-image',
-        'description': 'Transforms an image based on a textual prompt.'
+    'text-to-images': {
+        'name': 'fal-ai/fast-sdxl',
+        'description': 'Generates images based on textual prompts.',
+        'args': ['prompt', 'negative_prompt', 'image_size', 'num_inference_steps', 'guidance_scale', 'num_images', 'format']
     },
-    'fast-svd': {
-        'name': 'fal-ai/fast-svd',
-        'description': 'Performs singular value decomposition on an image.'
+    'images-to-video': {
+        'name': 'fal-ai/fast-svd-lcm',
+        'description': 'Generates a video from an image.',
+        'args': ['image_url', 'motion_bucket_id', 'cond_aug', 'steps', 'fps']
     }
 }
 # constants.py
