@@ -8,7 +8,6 @@ def compare_urls(new_urls: List[str], stored_urls: List[str]) -> bool:
     return set(new_urls) != set(stored_urls)
 
 def update_database(db: Session, new_urls: List[str]):
-    from your_module import SearchResult  # import your model at the top of the file
 
     db.query(SearchResult).delete()
     for url in new_urls:

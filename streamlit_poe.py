@@ -1,43 +1,50 @@
 import streamlit as st
-from chatterbot import ChatBot
-from chatterbot.trainers import ChatterBotCorpusTrainer
+import httpx
+import asyncio
 
-# Function to initialize and train the bot
-def initialize_bot():
-    bot = ChatBot("Poe Bot")
-    trainer = ChatterBotCorpusTrainer(bot)
-    trainer.train("chatterbot.corpus.english")
-    return bot
+# Async function to fetch video
+async def fetch_video():
+    async with httpx.AsyncClient() as client:
+        response = await client.get("")
+        return response.content
 
-# Function to interact with the bot
-def chat_with_bot(bot, video_url):
-    response = bot.get_response(video_url)
-    return str(response)
+# Async function to fetch text
+async def fetch_text():
+    async with httpx.AsyncClient() as client:
+        response = await client.get("YOUR_TEXT_ENDPOINT_URL")
+        return response.text
 
-# Function to create the Streamlit app
-def create_app():
-    # Create a Streamlit app
-    st.title("Poe Bot with Video Input")
+# Function to run the async loop for video
+def load_video():
+    loop = asyncio.new_event_loop()
+    asyncio.set_event_loop(loop)
+    return loop.run_until_complete(fetch_video())
 
-    # Initialize the bot
-    bot = initialize_bot()
+# Function to run the async loop for text
+def load_text():
+    loop = asyncio.new_event_loop()
+    asyncio.set_event_loop(loop)
+    return loop.run_until_complete(fetch_text())
 
-    # Add a video input field
-    video_url = st.text_input("Enter the video URL")
+# Streamlit UI components
+st.title("Your App Title")
 
-    # Check if the video URL is provided
-    if video_url:
-        # Process the video URL and get the response from the bot
-        response = chat_with_bot(bot, video_url)
+col1, col2 = st.columns(2)
+with col1:
+    if st.button("Refresh Video"):
+        video_bytes = load_video()
+        st.video(video_bytes)
+with col2:
+    if st.button("↓ Load Text"):
+        text_content = load_text()
+        st.session_state['text'] = text_content  # Store in session state
 
-        # Display the response
-        st.text_area("Bot Response", value=response, height=200)
+# Load video on app load
+if 'video_loaded' not in st.session_state:
+    video_bytes = load_video()
+    st.session_state['video_loaded'] = True
+    st.video(video_bytes)
 
-    # Run the Streamlit app
-    if __name__ == "__main__":
-        st.set_page_config(layout="wide")
-        st.sidebar.title("Bot Application")
-        st.sidebar.write("Enter a video URL to chat with the bot.")
-
-# Call the create_app function to start the Streamlit app
-create_app()
+# Text Editor Interface
+st.header("Business Action Plan")
+text = st.text_area("", value=st.session_state.get('text', ''), height=300)

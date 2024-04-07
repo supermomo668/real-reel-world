@@ -56,6 +56,7 @@ async def shutdown():
     pass
 
 @app.get("/index_updated")
-async def index_updated(db: Session = Depends(get_db)):
+async def index_updated(
+    db: Session = Depends(get_db)):
     updated, urls = check_for_updates(db)
     return {"updated": updated, "urls": urls}

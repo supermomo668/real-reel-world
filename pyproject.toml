@@ -10,7 +10,8 @@ python = "^3.11"
 fastapi = "^0.110.1"
 asyncpg = "^0.29.0"
 aiohttp = "^3.9.3"
-fal
+fal_client = "*"
+streamlit = "^1.33.0"
 
 
 [build-system]

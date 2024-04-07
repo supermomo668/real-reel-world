@@ -1,8 +1,14 @@
 import asyncio
 import click
 import fal_client
+from dotenv import load_dotenv
+import logging
 
 from scripts.constants import FAL_MODELS as MODELS
+
+logger = logging.get_logger(__name__)
+load_dotenv()
+
 async def submit_request(mode, **kwargs):
     model_details = MODELS.get(mode)
     if not model_details:
@@ -13,14 +19,16 @@ async def submit_request(mode, **kwargs):
 
     log_index = 0
     async for event in handler.iter_events(with_logs=True):
-        if isinstance(event, fal_run.InProgress):
+        if isinstance(event, fal_client.InProgress):
             new_logs = event.logs[log_index:]
             for log in new_logs:
                 print(log["message"])
             log_index = len(event.logs)
 
     result = await handler.get()
+    logger.info("Inference results:\n", result)
     return result
+
 
 
 @click.command()
@@ -41,7 +49,7 @@ async def submit_request(mode, **kwargs):
 @click.option('--steps', default=4, help='Number of steps for the model')
 @click.option('--fps', default=10, help='FPS of the generated video')
 def main(mode, prompt, negative_prompt, image_size, num_inference_steps, guidance_scale, num_images, format, image_url, motion_bucket_id, cond_aug, steps, fps):
-    asyncio.run(submit_request(
+    results = asyncio.run(submit_request(
       mode, 
       prompt=prompt, 
       negative_prompt=negative_prompt, 
@@ -52,6 +60,8 @@ def main(mode, prompt, negative_prompt, image_size, num_inference_steps, guidanc
       image_url=image_url, 
       motion_bucket_id=motion_bucket_id, 
       cond_aug=cond_aug, steps=steps, fps=fps))
+    
+    return results
 
 if __name__ == "__main__":
     main()
